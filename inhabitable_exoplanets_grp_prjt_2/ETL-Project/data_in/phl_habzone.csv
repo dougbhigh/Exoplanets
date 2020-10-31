@@ -1,0 +1,4049 @@
+P_NAME,P_HABZONE,P_TYPE_TEMP,P_TYPE
+11 Com b,0,Hot,Jovian
+11 UMi b,0,Hot,Jovian
+14 And b,0,Hot,Jovian
+14 Her b,0,Cold,Jovian
+16 Cyg B b,2,Warm,Jovian
+18 Del b,0,Hot,Jovian
+1RXS J160929.1-210524 b,0,,Jovian
+24 Boo b,0,Hot,Jovian
+24 Sex b,0,Hot,Jovian
+24 Sex c,0,Hot,Jovian
+2MASS J01225093-2439505 b,0,,Jovian
+2MASS J02192210-3925225 b,0,Cold,Jovian
+2MASS J04414489+2301513 b,0,,Jovian
+2MASS J12073346-3932539 b,0,,Jovian
+2MASS J19383260+4603591 b,0,,Jovian
+2MASS J21402931+1625183 A b,0,Cold,Jovian
+2MASS J22362452+4751425 b,0,,Jovian
+30 Ari B b,0,Hot,Jovian
+4 UMa b,0,Hot,Jovian
+42 Dra b,0,Hot,Jovian
+47 UMa b,2,Warm,Jovian
+47 UMa c,0,Cold,Jovian
+47 UMa d,0,Cold,Jovian
+51 Eri b,0,,
+51 Peg b,0,Hot,Jovian
+55 Cnc b,0,Hot,Jovian
+55 Cnc c,0,Hot,Jovian
+55 Cnc d,0,Cold,Jovian
+55 Cnc e,0,Hot,Superterran
+55 Cnc f,2,Warm,Neptunian
+6 Lyn b,0,Hot,Jovian
+61 Vir b,0,Hot,Superterran
+61 Vir c,0,Hot,Neptunian
+61 Vir d,0,Hot,Neptunian
+7 CMa b,2,Warm,Jovian
+70 Vir b,0,Hot,Jovian
+75 Cet b,0,Hot,Jovian
+8 UMi b,0,Hot,Jovian
+81 Cet b,0,Hot,Jovian
+91 Aqr b,0,Hot,Jovian
+AB Pic b,0,,Jovian
+alf Ari b,0,Hot,Jovian
+alf Tau b,0,Hot,Jovian
+BD+03 2562 b,0,Hot,Jovian
+BD+14 4559 b,2,Warm,Jovian
+BD+15 2375 b,0,Hot,Jovian
+BD+15 2940 b,0,Hot,Jovian
+BD+20 2457 b,0,Hot,Jovian
+BD+20 2457 c,0,Hot,Jovian
+BD+20 274 b,0,Hot,Jovian
+BD+20 594 b,0,Hot,Neptunian
+BD+48 738 b,0,Hot,Jovian
+BD+48 740 b,0,Hot,Jovian
+BD+49 828 b,0,Hot,Jovian
+BD-06 1339 b,0,Hot,Superterran
+BD-06 1339 c,2,Warm,Jovian
+BD-08 2823 b,0,Hot,Neptunian
+BD-08 2823 c,2,Warm,Jovian
+BD-10 3166 b,0,Hot,Jovian
+BD-11 4672 b,0,Cold,Jovian
+BD-13 2130 b,0,Hot,Jovian
+BD-17 63 b,0,Cold,Jovian
+bet Cnc b,0,Hot,Jovian
+bet Pic b,0,,
+bet Pic c,0,,Jovian
+bet UMi b,0,Hot,Jovian
+CFBDSIR J145829+101343 b,0,Cold,Jovian
+CHXR 73 b,0,,Jovian
+CI Tau b,0,,Jovian
+CoRoT-1 b,0,Hot,Jovian
+CoRoT-10 b,0,Hot,Jovian
+CoRoT-11 b,0,Hot,Jovian
+CoRoT-12 b,0,Hot,Jovian
+CoRoT-13 b,0,Hot,Jovian
+CoRoT-14 b,0,Hot,Jovian
+CoRoT-16 b,0,Hot,Jovian
+CoRoT-17 b,0,Hot,Jovian
+CoRoT-18 b,0,Hot,Jovian
+CoRoT-19 b,0,Hot,Jovian
+CoRoT-2 b,0,Hot,Jovian
+CoRoT-20 b,0,,Jovian
+CoRoT-20 c,0,,Jovian
+CoRoT-21 b,0,Hot,Jovian
+CoRoT-22 b,0,Hot,Neptunian
+CoRoT-23 b,0,Hot,Jovian
+CoRoT-24 b,0,Hot,Neptunian
+CoRoT-24 c,0,Hot,Neptunian
+CoRoT-25 b,0,Hot,Jovian
+CoRoT-26 b,0,Hot,Jovian
+CoRoT-27 b,0,Hot,Jovian
+CoRoT-28 b,0,Hot,Jovian
+CoRoT-29 b,0,Hot,Jovian
+CoRoT-3 b,0,Hot,Jovian
+CoRoT-4 b,0,Hot,Jovian
+CoRoT-5 b,0,Hot,Jovian
+CoRoT-6 b,0,Hot,Jovian
+CoRoT-7 b,0,Hot,Superterran
+CoRoT-7 c,0,Hot,Superterran
+CoRoT-8 b,0,Hot,Jovian
+CoRoT-9 b,0,Hot,Jovian
+CoRoTID 223977153 b,0,Hot,Jovian
+CT Cha b,0,,Jovian
+DE CVn b,0,,Jovian
+DENIS-P J082303.1-491201 b,0,,Jovian
+DH Tau b,0,,Jovian
+DP Leo b,0,Cold,Jovian
+DS Tuc A b,0,Hot,Neptunian
+EPIC 201238110 b,0,,Superterran
+EPIC 201497682 b,0,,Subterran
+EPIC 201615463 c,0,,Terran
+EPIC 201754305 d,0,,Terran
+EPIC 201833600 c,0,,Terran
+EPIC 201841433 b,0,,Terran
+EPIC 205950854 c,0,Hot,Terran
+EPIC 206024342 b,0,,Superterran
+EPIC 206032309 b,0,,Terran
+EPIC 206042996 b,0,,Superterran
+EPIC 206215704 b,0,,Terran
+EPIC 206317286 b,0,,Terran
+EPIC 211822797 b,0,Hot,Superterran
+EPIC 211945201 b,0,Hot,Neptunian
+EPIC 212297394 b,0,,Terran
+EPIC 212424622 b,0,,Superterran
+EPIC 212499991 b,0,,Superterran
+EPIC 212587672 b,0,,Terran
+EPIC 212737443 b,0,Hot,Neptunian
+EPIC 212737443 c,0,Hot,Neptunian
+EPIC 220554210 c,0,,Terran
+EPIC 220674823 b,0,Hot,Superterran
+EPIC 220674823 c,0,Hot,Neptunian
+EPIC 246851721 b,0,Hot,Jovian
+EPIC 246865365 b,0,Hot,Jovian
+EPIC 248847494 b,0,Cold,Jovian
+eps CrB b,0,Hot,Jovian
+eps Eri b,0,,Jovian
+eps Tau b,0,Hot,Jovian
+Fomalhaut b,0,,
+FU Tau b,0,,Jovian
+gam 1 Leo b,0,Hot,Jovian
+gam Cep b,0,,Jovian
+gam Lib b,0,Hot,Jovian
+gam Lib c,0,Hot,Jovian
+GJ 1061 b,0,Hot,Terran
+GJ 1061 c,1,Warm,Terran
+GJ 1061 d,2,Warm,Terran
+GJ 1132 b,0,Hot,Terran
+GJ 1132 c,0,Hot,Terran
+GJ 1148 b,2,Warm,Jovian
+GJ 1148 c,0,Cold,Jovian
+GJ 1214 b,0,Hot,Neptunian
+GJ 1265 b,0,Hot,Superterran
+GJ 143 b,0,Hot,Neptunian
+GJ 163 b,0,Hot,Neptunian
+GJ 163 c,1,Warm,Superterran
+GJ 163 d,0,Cold,Neptunian
+GJ 179 b,0,Cold,Jovian
+GJ 273 b,1,Warm,Terran
+GJ 273 c,0,Hot,Terran
+GJ 3021 b,0,Hot,Jovian
+GJ 3138 b,0,Hot,Terran
+GJ 3138 c,0,Hot,Terran
+GJ 3138 d,0,Cold,Neptunian
+GJ 317 b,0,,Jovian
+GJ 317 c,0,,Jovian
+GJ 328 b,0,,Jovian
+GJ 3293 b,1,Warm,Neptunian
+GJ 3293 c,0,Cold,Neptunian
+GJ 3293 d,2,Warm,Superterran
+GJ 3293 e,0,Hot,Terran
+GJ 3323 b,1,Warm,Terran
+GJ 3323 c,0,Cold,Terran
+GJ 3341 b,0,Hot,Superterran
+GJ 3470 b,0,Hot,Neptunian
+GJ 357 b,0,Hot,Terran
+GJ 357 c,0,Hot,Terran
+GJ 357 d,2,Warm,Superterran
+GJ 3634 b,0,,Superterran
+GJ 3779 b,0,Hot,Superterran
+GJ 3942 b,0,Hot,Superterran
+GJ 3998 b,0,Hot,Terran
+GJ 3998 c,0,Hot,Superterran
+GJ 411 b,0,Hot,Terran
+GJ 4276 b,0,Hot,Neptunian
+GJ 433 b,0,Hot,Superterran
+GJ 436 b,0,,Neptunian
+GJ 504 b,0,Cold,Jovian
+GJ 536 b,0,Hot,Superterran
+GJ 581 b,0,Hot,Neptunian
+GJ 581 c,0,Hot,Superterran
+GJ 581 e,0,Hot,Terran
+GJ 625 b,0,Hot,Terran
+GJ 649 b,0,,Jovian
+GJ 667 C b,0,Hot,Superterran
+GJ 667 C c,1,Warm,Terran
+GJ 667 C e,2,Warm,Terran
+GJ 667 C f,2,Warm,Terran
+GJ 667 C g,0,Cold,Terran
+GJ 674 b,0,,Neptunian
+GJ 676 A b,0,Cold,Jovian
+GJ 676 A c,0,Cold,Jovian
+GJ 676 A d,0,Hot,Terran
+GJ 676 A e,0,Hot,Superterran
+GJ 685 b,0,Hot,Superterran
+GJ 687 b,2,Warm,Neptunian
+GJ 832 b,0,Cold,Jovian
+GJ 832 c,1,Warm,Superterran
+GJ 849 b,0,Cold,Jovian
+GJ 86 b,0,Hot,Jovian
+GJ 876 b,0,,Jovian
+GJ 876 c,0,,Jovian
+GJ 876 d,0,,Superterran
+GJ 876 e,0,,Neptunian
+GJ 96 b,0,,Neptunian
+GJ 9827 b,0,Hot,Superterran
+GJ 9827 c,0,Hot,Terran
+GJ 9827 d,0,Hot,Superterran
+Gl 378 b,0,Hot,Neptunian
+Gl 49 b,0,Hot,Superterran
+Gl 686 b,0,Hot,Superterran
+GQ Lup b,0,,Jovian
+GSC 06214-00210 b,0,,Jovian
+GU Psc b,0,,Jovian
+HAT-P-1 b,0,Hot,Jovian
+HAT-P-11 b,0,Hot,Neptunian
+HAT-P-11 c,0,Cold,Jovian
+HAT-P-12 b,0,Hot,Jovian
+HAT-P-13 b,0,Hot,Jovian
+HAT-P-13 c,1,Warm,Jovian
+HAT-P-14 b,0,Hot,Jovian
+HAT-P-15 b,0,Hot,Jovian
+HAT-P-16 b,0,Hot,Jovian
+HAT-P-17 b,0,Hot,Jovian
+HAT-P-17 c,0,Cold,Jovian
+HAT-P-18 b,0,Hot,Jovian
+HAT-P-19 b,0,Hot,Jovian
+HAT-P-2 b,0,Hot,Jovian
+HAT-P-20 b,0,Hot,Jovian
+HAT-P-21 b,0,Hot,Jovian
+HAT-P-22 b,0,Hot,Jovian
+HAT-P-23 b,0,Hot,Jovian
+HAT-P-24 b,0,Hot,Jovian
+HAT-P-25 b,0,Hot,Jovian
+HAT-P-26 b,0,Hot,Jovian
+HAT-P-27 b,0,Hot,Jovian
+HAT-P-28 b,0,Hot,Jovian
+HAT-P-29 b,0,Hot,Jovian
+HAT-P-3 b,0,Hot,Jovian
+HAT-P-30 b,0,Hot,Jovian
+HAT-P-31 b,0,Hot,Jovian
+HAT-P-32 b,0,Hot,Jovian
+HAT-P-33 b,0,Hot,Jovian
+HAT-P-34 b,0,Hot,Jovian
+HAT-P-35 b,0,Hot,Jovian
+HAT-P-36 b,0,Hot,Jovian
+HAT-P-37 b,0,Hot,Jovian
+HAT-P-38 b,0,Hot,Jovian
+HAT-P-39 b,0,Hot,Jovian
+HAT-P-4 b,0,,Jovian
+HAT-P-40 b,0,Hot,Jovian
+HAT-P-41 b,0,Hot,Jovian
+HAT-P-42 b,0,Hot,Jovian
+HAT-P-43 b,0,Hot,Jovian
+HAT-P-44 b,0,Hot,Jovian
+HAT-P-44 c,0,Cold,Jovian
+HAT-P-45 b,0,Hot,Jovian
+HAT-P-46 b,0,Hot,Jovian
+HAT-P-49 b,0,Hot,Jovian
+HAT-P-5 b,0,Hot,Jovian
+HAT-P-50 b,0,Hot,Jovian
+HAT-P-51 b,0,Hot,Jovian
+HAT-P-52 b,0,Hot,Jovian
+HAT-P-53 b,0,Hot,Jovian
+HAT-P-54 b,0,Hot,Jovian
+HAT-P-55 b,0,Hot,Jovian
+HAT-P-56 b,0,Hot,Jovian
+HAT-P-57 b,0,Hot,Jovian
+HAT-P-6 b,0,Hot,Jovian
+HAT-P-65 b,0,Hot,Jovian
+HAT-P-66 b,0,Hot,Jovian
+HAT-P-67 b,0,Hot,Jovian
+HAT-P-69 b,0,Hot,Jovian
+HAT-P-7 b,0,Hot,Jovian
+HAT-P-70 b,0,Hot,Jovian
+HAT-P-8 b,0,Hot,Jovian
+HAT-P-9 b,0,Hot,Jovian
+HATS-1 b,0,Hot,Jovian
+HATS-10 b,0,Hot,Jovian
+HATS-11 b,0,Hot,Jovian
+HATS-12 b,0,Hot,Jovian
+HATS-13 b,0,Hot,Jovian
+HATS-14 b,0,Hot,Jovian
+HATS-15 b,0,Hot,Jovian
+HATS-16 b,0,Hot,Jovian
+HATS-17 b,0,Hot,Jovian
+HATS-18 b,0,Hot,Jovian
+HATS-2 b,0,Hot,Jovian
+HATS-22 b,0,Hot,Jovian
+HATS-23 b,0,Hot,Jovian
+HATS-24 b,0,Hot,Jovian
+HATS-25 b,0,Hot,Jovian
+HATS-26 b,0,Hot,Jovian
+HATS-27 b,0,Hot,Jovian
+HATS-28 b,0,Hot,Jovian
+HATS-29 b,0,Hot,Jovian
+HATS-3 b,0,Hot,Jovian
+HATS-30 b,0,Hot,Jovian
+HATS-31 b,0,Hot,Jovian
+HATS-32 b,0,Hot,Jovian
+HATS-33 b,0,Hot,Jovian
+HATS-34 b,0,Hot,Jovian
+HATS-35 b,0,Hot,Jovian
+HATS-36 b,0,Hot,Jovian
+HATS-39 b,0,Hot,Jovian
+HATS-4 b,0,Hot,Jovian
+HATS-40 b,0,Hot,Jovian
+HATS-41 b,0,Hot,Jovian
+HATS-42 b,0,Hot,Jovian
+HATS-43 b,0,Hot,Jovian
+HATS-44 b,0,Hot,Jovian
+HATS-45 b,0,Hot,Jovian
+HATS-46 b,0,Hot,Jovian
+HATS-5 b,0,Hot,Jovian
+HATS-50 b,0,Hot,Jovian
+HATS-51 b,0,Hot,Jovian
+HATS-52 b,0,Hot,Jovian
+HATS-53 b,0,Hot,Jovian
+HATS-54 b,0,Hot,Jovian
+HATS-55 b,0,Hot,Jovian
+HATS-56 b,0,Hot,Jovian
+HATS-57 b,0,Hot,Jovian
+HATS-58 A b,0,Hot,Jovian
+HATS-59 b,0,Hot,Jovian
+HATS-59 c,0,Cold,Jovian
+HATS-6 b,0,Hot,Jovian
+HATS-60 b,0,Hot,Jovian
+HATS-61 b,0,Hot,Jovian
+HATS-62 b,0,Hot,Jovian
+HATS-63 b,0,Hot,Jovian
+HATS-64 b,0,Hot,Jovian
+HATS-65 b,0,Hot,Jovian
+HATS-66 b,0,Hot,Jovian
+HATS-67 b,0,Hot,Jovian
+HATS-68 b,0,Hot,Jovian
+HATS-69 b,0,Hot,Jovian
+HATS-7 b,0,Hot,Jovian
+HATS-70 b,0,Hot,Jovian
+HATS-8 b,0,Hot,Jovian
+HATS-9 b,0,Hot,Jovian
+HD 100546 b,0,,Jovian
+HD 100655 b,0,Hot,Jovian
+HD 100777 b,2,Warm,Jovian
+HD 10180 c,0,Hot,Neptunian
+HD 10180 d,0,Hot,Neptunian
+HD 10180 e,0,Hot,Neptunian
+HD 10180 f,0,Hot,Neptunian
+HD 10180 g,2,Warm,Neptunian
+HD 10180 h,0,Cold,Jovian
+HD 101930 b,0,Hot,Jovian
+HD 102117 b,0,Hot,Jovian
+HD 102195 b,0,Hot,Jovian
+HD 102272 b,0,Hot,Jovian
+HD 102329 b,0,Hot,Jovian
+HD 102329 c,0,Hot,Jovian
+HD 102365 b,0,Hot,Neptunian
+HD 102843 b,0,,Jovian
+HD 102956 b,0,Hot,Jovian
+HD 103197 b,0,Hot,Neptunian
+HD 103720 b,0,Hot,Jovian
+HD 103774 b,0,Hot,Jovian
+HD 103949 b,0,,Neptunian
+HD 104067 b,0,Hot,Jovian
+HD 10442 b,2,Warm,Jovian
+HD 104985 b,0,Hot,Jovian
+HD 106252 b,0,Cold,Jovian
+HD 106270 b,2,Warm,Jovian
+HD 106315 b,0,Hot,Neptunian
+HD 106315 c,0,Hot,Neptunian
+HD 10647 b,2,Warm,Jovian
+HD 106515 A b,0,Cold,Jovian
+HD 106906 b,0,,Jovian
+HD 10697 b,2,Warm,Jovian
+HD 107148 b,0,Hot,Jovian
+HD 108147 b,0,Hot,Jovian
+HD 108341 b,0,Cold,Jovian
+HD 108863 b,0,Hot,Jovian
+HD 108874 b,2,Warm,Jovian
+HD 108874 c,0,Cold,Jovian
+HD 109246 b,0,Hot,Jovian
+HD 109271 b,0,Hot,Neptunian
+HD 109271 c,0,Hot,Neptunian
+HD 109749 b,0,Hot,Jovian
+HD 110014 b,0,Hot,Jovian
+HD 111232 b,0,Cold,Jovian
+HD 111591 b,0,Hot,Jovian
+HD 111998 b,2,Warm,Jovian
+HD 113337 b,0,Hot,Jovian
+HD 113538 b,0,Cold,Jovian
+HD 113538 c,0,Cold,Jovian
+HD 113996 b,0,Hot,Jovian
+HD 114386 b,0,Cold,Jovian
+HD 114613 b,0,Cold,Jovian
+HD 114729 b,2,Warm,Jovian
+HD 114762 b,0,Hot,Jovian
+HD 114783 b,0,,Jovian
+HD 114783 c,0,,Jovian
+HD 11506 b,0,Cold,Jovian
+HD 11506 c,0,Hot,Jovian
+HD 116029 b,0,Hot,Jovian
+HD 116029 c,0,Hot,Jovian
+HD 117207 b,0,Cold,Jovian
+HD 11755 b,0,Hot,Jovian
+HD 117618 b,0,Hot,Jovian
+HD 118203 b,0,Hot,Jovian
+HD 119130 b,0,Hot,Neptunian
+HD 11964 b,0,Cold,Jovian
+HD 11964 c,0,Hot,Neptunian
+HD 11977 b,0,Hot,Jovian
+HD 120084 b,0,Hot,Jovian
+HD 121504 b,0,Hot,Jovian
+HD 12484 b,0,Hot,Jovian
+HD 125595 b,0,Hot,Superterran
+HD 125612 b,2,Warm,Jovian
+HD 125612 c,0,Hot,Neptunian
+HD 125612 d,0,Cold,Jovian
+HD 12648 b,0,Hot,Jovian
+HD 126525 b,0,Cold,Jovian
+HD 12661 b,0,Hot,Jovian
+HD 12661 c,0,Cold,Jovian
+HD 126614 b,0,Cold,Jovian
+HD 128311 b,0,,Jovian
+HD 128311 c,0,,Jovian
+HD 128356 b,2,Warm,Jovian
+HD 129445 b,0,,Jovian
+HD 130322 b,0,Hot,Jovian
+HD 131496 b,0,Hot,Jovian
+HD 131664 b,0,Cold,Jovian
+HD 13167 b,0,Cold,Jovian
+HD 13189 b,0,Hot,Jovian
+HD 132406 b,2,Warm,Jovian
+HD 132563 b,0,Cold,Jovian
+HD 133131 A b,2,Warm,Jovian
+HD 133131 A c,0,Cold,Jovian
+HD 133131 B b,0,Cold,Jovian
+HD 134060 b,0,Hot,Neptunian
+HD 134060 c,0,Cold,Neptunian
+HD 134987 b,0,Hot,Jovian
+HD 134987 c,0,Cold,Jovian
+HD 136352 b,0,Hot,Terran
+HD 136352 c,0,Hot,Neptunian
+HD 136352 d,0,Hot,Superterran
+HD 136418 b,0,Hot,Jovian
+HD 13724 b,0,Cold,Jovian
+HD 137388 b,2,Warm,Jovian
+HD 13908 b,0,Hot,Jovian
+HD 13908 c,2,Warm,Jovian
+HD 13931 b,0,Cold,Jovian
+HD 139357 b,0,Hot,Jovian
+HD 1397 b,0,Hot,Jovian
+HD 14067 b,0,Hot,Jovian
+HD 141399 b,0,Hot,Jovian
+HD 141399 c,0,Hot,Jovian
+HD 141399 d,0,Cold,Jovian
+HD 141399 e,0,Cold,Jovian
+HD 141937 b,2,Warm,Jovian
+HD 142 b,0,Hot,Jovian
+HD 142 c,0,Cold,Jovian
+HD 142022 A b,0,Cold,Jovian
+HD 142245 b,1,Warm,Jovian
+HD 142415 b,2,Warm,Jovian
+HD 143105 b,0,Hot,Jovian
+HD 143361 b,0,Cold,Jovian
+HD 145377 b,0,Hot,Jovian
+HD 145457 b,0,Hot,Jovian
+HD 145934 b,0,,Jovian
+HD 1461 b,0,Hot,Superterran
+HD 1461 c,0,Hot,Superterran
+HD 147018 b,0,Hot,Jovian
+HD 147018 c,0,Cold,Jovian
+HD 147379 b,0,,Neptunian
+HD 147513 b,2,Warm,Jovian
+HD 14787 b,0,Hot,Jovian
+HD 147873 b,0,Hot,Jovian
+HD 147873 c,0,Hot,Jovian
+HD 148156 b,0,Cold,Jovian
+HD 148164 b,0,Hot,Jovian
+HD 148164 c,0,Cold,Jovian
+HD 148284 b,0,Hot,Jovian
+HD 148427 b,0,Hot,Jovian
+HD 149026 b,0,Hot,Jovian
+HD 149143 b,0,Hot,Jovian
+HD 1502 b,0,Hot,Jovian
+HD 150706 b,0,Cold,Jovian
+HD 152079 b,0,Cold,Jovian
+HD 152581 b,0,Hot,Jovian
+HD 15337 b,0,Hot,Superterran
+HD 15337 c,0,Hot,Superterran
+HD 153950 b,2,Warm,Jovian
+HD 154345 b,0,Cold,Jovian
+HD 154672 b,0,Hot,Jovian
+HD 154857 b,0,Hot,Jovian
+HD 154857 c,0,Cold,Jovian
+HD 155233 b,0,Hot,Jovian
+HD 155358 b,0,Hot,Jovian
+HD 155358 c,0,Hot,Jovian
+HD 156279 b,0,Hot,Jovian
+HD 156279 c,0,Cold,Jovian
+HD 156411 b,1,Warm,Jovian
+HD 156668 b,0,Hot,Terran
+HD 156846 b,0,Hot,Jovian
+HD 158038 b,0,Hot,Jovian
+HD 158996 b,0,Hot,Jovian
+HD 159243 b,0,Hot,Jovian
+HD 159243 c,0,Hot,Jovian
+HD 159868 b,2,Warm,Jovian
+HD 159868 c,0,Hot,Jovian
+HD 1605 b,0,Hot,Jovian
+HD 1605 c,2,Warm,Jovian
+HD 160691 b,0,,Jovian
+HD 160691 c,0,,Jovian
+HD 160691 d,0,,Neptunian
+HD 160691 e,0,,Jovian
+HD 16141 b,0,Hot,Jovian
+HD 16175 b,2,Warm,Jovian
+HD 162020 b,0,Hot,Jovian
+HD 163607 b,0,Hot,Jovian
+HD 163607 c,2,Warm,Jovian
+HD 16417 b,0,,Neptunian
+HD 164509 b,1,Warm,Jovian
+HD 164595 b,0,Hot,Neptunian
+HD 164604 b,0,,Jovian
+HD 164922 b,0,Cold,Jovian
+HD 164922 c,0,Hot,Neptunian
+HD 165155 b,2,Warm,Jovian
+HD 1666 b,0,Hot,Jovian
+HD 166724 b,0,Cold,Jovian
+HD 167042 b,0,Hot,Jovian
+HD 168443 b,0,Hot,Jovian
+HD 168443 c,0,Cold,Jovian
+HD 168746 b,0,Hot,Jovian
+HD 1690 b,0,Hot,Jovian
+HD 169830 b,0,Hot,Jovian
+HD 169830 c,0,Cold,Jovian
+HD 170469 b,0,Cold,Jovian
+HD 17092 b,0,Hot,Jovian
+HD 171028 b,0,Hot,Jovian
+HD 171238 b,0,Cold,Jovian
+HD 17156 b,0,Hot,Jovian
+HD 173416 b,0,Hot,Jovian
+HD 175167 b,2,Warm,Jovian
+HD 175541 b,0,Hot,Jovian
+HD 175607 b,0,Hot,Superterran
+HD 17674 b,2,Warm,Jovian
+HD 176986 b,0,Hot,Superterran
+HD 176986 c,0,Hot,Superterran
+HD 177565 b,0,,Neptunian
+HD 177830 b,0,Hot,Jovian
+HD 177830 c,0,Hot,Neptunian
+HD 178911 B b,0,Hot,Jovian
+HD 179079 b,0,Hot,Neptunian
+HD 179949 b,0,Hot,Jovian
+HD 180053 b,0,Hot,Jovian
+HD 18015 b,2,Warm,Jovian
+HD 180314 b,0,Hot,Jovian
+HD 180617 b,2,Warm,Neptunian
+HD 180902 b,0,Hot,Jovian
+HD 181234 b,0,Cold,Jovian
+HD 181342 b,0,Hot,Jovian
+HD 181433 b,0,Hot,Superterran
+HD 181433 c,0,Cold,Jovian
+HD 181433 d,0,Cold,Jovian
+HD 181720 b,2,Warm,Jovian
+HD 183263 b,2,Warm,Jovian
+HD 183263 c,0,Cold,Jovian
+HD 185269 b,0,Hot,Jovian
+HD 187085 b,2,Warm,Jovian
+HD 187123 b,0,,Jovian
+HD 187123 c,0,,Jovian
+HD 18742 b,0,Hot,Jovian
+HD 188015 b,2,Warm,Jovian
+HD 189733 b,0,Hot,Jovian
+HD 190360 b,0,Cold,Jovian
+HD 190360 c,0,Hot,Neptunian
+HD 190647 b,1,Warm,Jovian
+HD 190984 b,0,Cold,Jovian
+HD 191806 b,0,Cold,Jovian
+HD 192263 b,0,Hot,Jovian
+HD 192310 b,0,Hot,Neptunian
+HD 192310 c,1,Warm,Neptunian
+HD 192699 b,0,Hot,Jovian
+HD 195019 b,0,Hot,Jovian
+HD 196050 b,1,Warm,Jovian
+HD 196067 b,0,Cold,Jovian
+HD 196885 b,2,Warm,Jovian
+HD 197037 b,1,Warm,Jovian
+HD 19994 b,0,,Jovian
+HD 20003 b,0,Hot,Neptunian
+HD 20003 c,0,Hot,Neptunian
+HD 200964 b,0,Hot,Jovian
+HD 200964 c,0,Hot,Jovian
+HD 202206 c,0,Cold,Jovian
+HD 202696 b,0,Hot,Jovian
+HD 202696 c,0,Hot,Jovian
+HD 202772 A b,0,Hot,Jovian
+HD 203030 b,0,,Jovian
+HD 203473 b,0,Cold,Jovian
+HD 2039 b,0,Cold,Jovian
+HD 204313 b,0,Cold,Jovian
+HD 204313 c,0,Hot,Neptunian
+HD 204941 b,0,Cold,Jovian
+HD 205739 b,0,Hot,Jovian
+HD 206255 b,0,,Neptunian
+HD 206610 b,0,Hot,Jovian
+HD 20781 b,0,Hot,Terran
+HD 20781 c,0,Hot,Superterran
+HD 20781 d,0,Hot,Neptunian
+HD 20781 e,0,Hot,Neptunian
+HD 20782 b,2,Warm,Jovian
+HD 207832 b,0,Hot,Jovian
+HD 207832 c,0,Cold,Jovian
+HD 20794 b,0,Hot,Terran
+HD 20794 c,0,Hot,Terran
+HD 20794 d,0,Hot,Terran
+HD 20794 e,0,Hot,Terran
+HD 208487 b,0,Hot,Jovian
+HD 208527 b,0,Hot,Jovian
+HD 20868 b,0,Cold,Jovian
+HD 208897 b,0,Hot,Jovian
+HD 209458 b,0,Hot,Jovian
+HD 210193 b,0,,Jovian
+HD 210277 b,2,Warm,Jovian
+HD 210702 b,0,Hot,Jovian
+HD 211810 b,0,Cold,Jovian
+HD 211970 b,0,,Neptunian
+HD 212301 b,0,Hot,Jovian
+HD 212771 b,0,Hot,Jovian
+HD 213240 b,2,Warm,Jovian
+HD 21411 b,0,,Jovian
+HD 214823 b,2,Warm,Jovian
+HD 215152 b,0,Hot,Terran
+HD 215152 c,0,Hot,Terran
+HD 215152 d,0,Hot,Terran
+HD 215152 e,0,Hot,Terran
+HD 215497 b,0,Hot,Superterran
+HD 215497 c,0,Cold,Jovian
+HD 216435 b,2,Warm,Jovian
+HD 216437 b,1,Warm,Jovian
+HD 216536 b,0,Hot,Jovian
+HD 216770 b,0,Hot,Jovian
+HD 21693 b,0,Hot,Superterran
+HD 21693 c,0,Hot,Neptunian
+HD 217107 b,0,Hot,Jovian
+HD 217107 c,0,Cold,Jovian
+HD 21749 c,0,Hot,Terran
+HD 217786 b,0,Cold,Jovian
+HD 217850 b,0,Cold,Jovian
+HD 218566 b,2,Warm,Jovian
+HD 219077 b,0,Cold,Jovian
+HD 219134 b,0,Hot,Superterran
+HD 219134 c,0,Hot,Superterran
+HD 219134 d,0,Hot,Neptunian
+HD 219134 f,0,Hot,Superterran
+HD 219134 g,0,Hot,Neptunian
+HD 219134 h,0,Cold,Jovian
+HD 219415 b,2,Warm,Jovian
+HD 219666 b,0,Hot,Neptunian
+HD 219828 b,0,Hot,Neptunian
+HD 219828 c,0,Cold,Jovian
+HD 220074 b,0,Hot,Jovian
+HD 220689 b,0,Cold,Jovian
+HD 220773 b,0,Cold,Jovian
+HD 220842 b,0,Hot,Jovian
+HD 221287 b,2,Warm,Jovian
+HD 221416 b,0,Hot,Jovian
+HD 221420 b,0,Cold,Jovian
+HD 221585 b,2,Warm,Jovian
+HD 222076 b,0,Hot,Jovian
+HD 222155 b,0,Cold,Jovian
+HD 222582 b,2,Warm,Jovian
+HD 224538 b,2,Warm,Jovian
+HD 224693 b,0,Hot,Jovian
+HD 22781 b,0,Cold,Jovian
+HD 23079 b,2,Warm,Jovian
+HD 23127 b,2,Warm,Jovian
+HD 231701 b,0,Hot,Jovian
+HD 233604 b,0,Hot,Jovian
+HD 23472 b,0,,Neptunian
+HD 23472 c,0,,Neptunian
+HD 23596 b,1,Warm,Jovian
+HD 238914 b,0,Hot,Jovian
+HD 240210 b,0,Hot,Jovian
+HD 240237 b,0,Hot,Jovian
+HD 24040 b,0,Cold,Jovian
+HD 24064 b,0,Hot,Jovian
+HD 24085 b,0,,Neptunian
+HD 25015 b,0,Cold,Jovian
+HD 25171 b,0,Cold,Jovian
+HD 2638 b,0,Hot,Jovian
+HD 2685 b,0,Hot,Jovian
+HD 26965 b,0,Hot,Superterran
+HD 27442 b,0,Hot,Jovian
+HD 27631 b,0,Cold,Jovian
+HD 27894 b,0,,Jovian
+HD 27894 c,0,,Jovian
+HD 27894 d,0,,Jovian
+HD 28185 b,2,Warm,Jovian
+HD 28254 b,2,Warm,Jovian
+HD 285507 b,0,Hot,Jovian
+HD 285968 b,0,Hot,Superterran
+HD 28678 b,0,Hot,Jovian
+HD 29021 b,0,Cold,Jovian
+HD 290327 b,0,Cold,Jovian
+HD 2952 b,0,Hot,Jovian
+HD 30177 b,0,Cold,Jovian
+HD 30177 c,0,Cold,Jovian
+HD 30562 b,2,Warm,Jovian
+HD 30669 b,0,Cold,Jovian
+HD 30856 b,0,Hot,Jovian
+HD 31253 b,0,Hot,Jovian
+HD 31527 b,0,Hot,Neptunian
+HD 31527 c,0,Hot,Neptunian
+HD 31527 d,1,Warm,Neptunian
+HD 3167 b,0,Hot,Superterran
+HD 3167 c,0,Hot,Neptunian
+HD 3167 d,0,Hot,Superterran
+HD 32518 b,0,Hot,Jovian
+HD 32963 b,0,Cold,Jovian
+HD 330075 b,0,Hot,Jovian
+HD 33142 b,0,Hot,Jovian
+HD 33142 c,0,Hot,Jovian
+HD 33283 b,0,Hot,Jovian
+HD 33564 b,0,Hot,Jovian
+HD 33844 b,0,Hot,Jovian
+HD 33844 c,0,Hot,Jovian
+HD 34445 b,2,Warm,Jovian
+HD 34445 c,0,Hot,Jovian
+HD 34445 d,0,Hot,Neptunian
+HD 34445 e,0,Hot,Neptunian
+HD 34445 f,2,Warm,Neptunian
+HD 34445 g,0,Cold,Jovian
+HD 35759 b,0,Hot,Jovian
+HD 3651 b,0,Hot,Jovian
+HD 37124 b,0,,Jovian
+HD 37124 c,0,,Jovian
+HD 37124 d,0,,Jovian
+HD 37605 b,0,Hot,Jovian
+HD 37605 c,0,Cold,Jovian
+HD 38283 b,0,Hot,Jovian
+HD 38529 b,0,Hot,Jovian
+HD 38529 c,2,Warm,Jovian
+HD 38801 b,1,Warm,Jovian
+HD 39091 b,0,Cold,Jovian
+HD 39855 b,0,,Superterran
+HD 40307 b,0,Hot,Terran
+HD 40307 c,0,Hot,Superterran
+HD 40307 d,0,Hot,Superterran
+HD 40307 f,0,Hot,Superterran
+HD 40307 g,2,Warm,Superterran
+HD 40956 b,0,Hot,Jovian
+HD 40979 b,0,Hot,Jovian
+HD 41004 A b,0,Cold,Jovian
+HD 41004 B b,0,,Jovian
+HD 4113 b,2,Warm,Jovian
+HD 42012 b,0,Cold,Jovian
+HD 4203 b,1,Warm,Jovian
+HD 4203 c,0,Cold,Jovian
+HD 4208 b,0,Cold,Jovian
+HD 42618 b,0,Hot,Neptunian
+HD 4308 b,0,Hot,Neptunian
+HD 4313 b,0,Hot,Jovian
+HD 43197 b,2,Warm,Jovian
+HD 43691 b,0,Hot,Jovian
+HD 44219 b,2,Warm,Jovian
+HD 45184 b,0,Hot,Neptunian
+HD 45184 c,0,Hot,Superterran
+HD 45350 b,0,Cold,Jovian
+HD 45364 b,1,Warm,Jovian
+HD 45364 c,2,Warm,Jovian
+HD 45652 b,0,Hot,Jovian
+HD 46375 b,0,Hot,Jovian
+HD 47186 b,0,Hot,Neptunian
+HD 47186 c,0,Cold,Jovian
+HD 4732 b,0,Hot,Jovian
+HD 4732 c,2,Warm,Jovian
+HD 47366 b,0,Hot,Jovian
+HD 47366 c,0,Hot,Jovian
+HD 47536 b,0,Hot,Jovian
+HD 48265 b,2,Warm,Jovian
+HD 4917 b,0,Hot,Jovian
+HD 49674 b,0,Hot,Neptunian
+HD 50499 b,0,Cold,Jovian
+HD 50499 c,0,Cold,Jovian
+HD 50554 b,0,Cold,Jovian
+HD 51608 b,0,Hot,Neptunian
+HD 51608 c,0,Hot,Neptunian
+HD 52265 b,0,Hot,Jovian
+HD 5319 b,0,Hot,Jovian
+HD 5319 c,0,Hot,Jovian
+HD 55696 b,0,Cold,Jovian
+HD 5583 b,0,Hot,Jovian
+HD 5608 b,0,Hot,Jovian
+HD 564 b,2,Warm,Jovian
+HD 5891 b,0,Hot,Jovian
+HD 59686 A b,0,Hot,Jovian
+HD 60532 b,0,Hot,Jovian
+HD 60532 c,0,Hot,Jovian
+HD 62509 b,0,Hot,Jovian
+HD 63454 b,0,Hot,Jovian
+HD 63765 b,2,Warm,Jovian
+HD 64114 b,0,,Neptunian
+HD 6434 b,0,Hot,Jovian
+HD 65216 b,2,Warm,Jovian
+HD 65216 c,0,Cold,Jovian
+HD 66141 b,0,Hot,Jovian
+HD 66428 b,0,Cold,Jovian
+HD 67087 b,0,Hot,Jovian
+HD 67087 c,0,Cold,Jovian
+HD 6718 b,0,Cold,Jovian
+HD 68402 b,0,Cold,Jovian
+HD 68988 b,0,Hot,Jovian
+HD 69830 b,0,,Neptunian
+HD 69830 c,0,,Neptunian
+HD 69830 d,0,,Neptunian
+HD 70573 b,0,Cold,Jovian
+HD 70642 b,0,Cold,Jovian
+HD 7199 b,2,Warm,Jovian
+HD 72490 b,0,Hot,Jovian
+HD 72659 b,0,Cold,Jovian
+HD 72892 b,0,Hot,Jovian
+HD 73267 b,0,Cold,Jovian
+HD 73526 b,0,Hot,Jovian
+HD 73526 c,0,Hot,Jovian
+HD 73534 b,2,Warm,Jovian
+HD 74156 b,0,,Jovian
+HD 74156 c,0,,Jovian
+HD 7449 b,0,Cold,Jovian
+HD 75289 b,0,Hot,Jovian
+HD 75784 b,0,Hot,Jovian
+HD 75784 c,0,Cold,Jovian
+HD 75898 b,0,Hot,Jovian
+HD 76700 b,0,Hot,Jovian
+HD 76920 b,0,Hot,Jovian
+HD 77338 b,0,Hot,Neptunian
+HD 7924 b,0,Hot,Superterran
+HD 7924 c,0,Hot,Superterran
+HD 7924 d,0,Hot,Superterran
+HD 79498 b,0,Cold,Jovian
+HD 80606 b,0,Hot,Jovian
+HD 81040 b,0,Cold,Jovian
+HD 81688 b,0,Hot,Jovian
+HD 82886 b,0,Hot,Jovian
+HD 82943 b,2,Warm,Jovian
+HD 82943 c,0,Hot,Jovian
+HD 8326 b,0,,Jovian
+HD 83443 b,0,Hot,Jovian
+HD 8535 b,0,Cold,Jovian
+HD 85390 b,0,Cold,Neptunian
+HD 85512 b,0,Hot,Terran
+HD 8574 b,0,Hot,Jovian
+HD 86081 b,0,Hot,Jovian
+HD 86226 b,0,Cold,Jovian
+HD 86264 b,2,Warm,Jovian
+HD 8673 b,0,Cold,Jovian
+HD 86950 b,0,Hot,Jovian
+HD 87646 b,0,Hot,Jovian
+HD 87883 b,0,Cold,Jovian
+HD 88133 b,0,Hot,Jovian
+HD 89307 b,0,Cold,Jovian
+HD 89345 b,0,Hot,Jovian
+HD 89744 b,0,Hot,Jovian
+HD 90156 b,0,Hot,Neptunian
+HD 9174 b,2,Warm,Jovian
+HD 92788 b,1,Warm,Jovian
+HD 92788 c,0,Cold,Jovian
+HD 92987 b,0,Cold,Jovian
+HD 93083 b,0,Hot,Jovian
+HD 9446 b,0,Hot,Jovian
+HD 9446 c,0,Hot,Jovian
+HD 94834 b,1,Warm,Jovian
+HD 95086 b,0,,Jovian
+HD 95089 b,0,Hot,Jovian
+HD 95089 c,1,Warm,Jovian
+HD 95127 b,0,Hot,Jovian
+HD 95872 b,0,Cold,Jovian
+HD 96063 b,0,Hot,Jovian
+HD 96127 b,0,Hot,Jovian
+HD 96167 b,0,Hot,Jovian
+HD 97658 b,0,Hot,Superterran
+HD 98219 b,0,Hot,Jovian
+HD 98649 b,0,Cold,Jovian
+HD 98736 b,0,Cold,Jovian
+HD 99109 b,2,Warm,Jovian
+HD 99492 b,0,Hot,Neptunian
+HD 99706 b,0,Hot,Jovian
+HD 99706 c,0,Hot,Jovian
+HIP 105854 b,0,Hot,Jovian
+HIP 107773 b,0,Hot,Jovian
+HIP 109384 b,2,Warm,Jovian
+HIP 109600 b,1,Warm,Jovian
+HIP 116454 b,0,Hot,Neptunian
+HIP 12961 b,1,Warm,Jovian
+HIP 14810 b,0,Hot,Jovian
+HIP 14810 c,0,Hot,Jovian
+HIP 14810 d,0,Cold,Jovian
+HIP 35173 b,0,,Neptunian
+HIP 41378 b,0,Hot,
+HIP 41378 c,0,Hot,
+HIP 41378 d,2,Warm,
+HIP 41378 e,0,,
+HIP 41378 f,2,Warm,
+HIP 5158 b,2,Warm,Jovian
+HIP 5158 c,0,Cold,Jovian
+HIP 54373 b,0,,Superterran
+HIP 54373 c,0,,Neptunian
+HIP 57274 b,0,Hot,Superterran
+HIP 57274 c,0,Hot,Jovian
+HIP 57274 d,0,Cold,Jovian
+HIP 63242 b,0,Hot,Jovian
+HIP 65407 b,0,Hot,Jovian
+HIP 65407 c,0,Hot,Jovian
+HIP 65426 b,0,Cold,Jovian
+HIP 65891 b,0,Hot,Jovian
+HIP 67537 b,1,Warm,Jovian
+HIP 67851 b,0,Hot,Jovian
+HIP 67851 c,1,Warm,Jovian
+HIP 70849 b,0,,Jovian
+HIP 71135 b,0,,Neptunian
+HIP 74890 b,0,Hot,Jovian
+HIP 78530 b,0,,Jovian
+HIP 79098 AB b,0,,Jovian
+HIP 79431 b,2,Warm,Jovian
+HIP 8541 b,0,Hot,Jovian
+HIP 91258 b,0,Hot,Jovian
+HIP 97233 b,0,Hot,Jovian
+HN Peg b,0,Cold,Jovian
+HR 2562 b,0,,Jovian
+HR 810 b,0,Hot,Jovian
+HR 858 b,0,Hot,Superterran
+HR 858 c,0,Hot,Superterran
+HR 858 d,0,Hot,Superterran
+HR 8799 b,0,,Jovian
+HR 8799 c,0,,Jovian
+HR 8799 d,0,,Jovian
+HR 8799 e,0,,Jovian
+IC 4651 9122 b,0,,Jovian
+iot Dra b,0,Hot,Jovian
+K2-10 b,0,Hot,Neptunian
+K2-100 b,0,Hot,Neptunian
+K2-101 b,0,Hot,Superterran
+K2-102 b,0,Hot,Terran
+K2-104 b,0,Hot,Superterran
+K2-105 b,0,Hot,Neptunian
+K2-107 b,0,Hot,Jovian
+K2-108 b,0,Hot,Neptunian
+K2-11 b,0,Hot,Jovian
+K2-110 b,0,Hot,Neptunian
+K2-111 b,0,Hot,Superterran
+K2-113 b,0,Hot,Jovian
+K2-114 b,0,Hot,Jovian
+K2-115 b,0,Hot,Jovian
+K2-116 b,0,Hot,Subterran
+K2-117 b,0,Hot,Superterran
+K2-117 c,0,Hot,Superterran
+K2-118 b,0,Hot,Neptunian
+K2-119 b,0,Hot,Neptunian
+K2-12 b,0,Hot,Superterran
+K2-120 b,0,Hot,Superterran
+K2-121 b,0,Hot,Jovian
+K2-122 b,0,Hot,Terran
+K2-123 b,0,Hot,Neptunian
+K2-124 b,0,Hot,Neptunian
+K2-125 b,0,Hot,Superterran
+K2-126 b,0,Hot,Superterran
+K2-127 b,0,Hot,Jovian
+K2-128 b,0,Hot,Terran
+K2-129 b,0,Hot,Terran
+K2-13 b,0,Hot,Superterran
+K2-130 b,0,Hot,Terran
+K2-131 b,0,Hot,Superterran
+K2-132 b,0,Hot,Jovian
+K2-133 b,0,Hot,Terran
+K2-133 c,0,Hot,Superterran
+K2-133 d,0,Hot,Superterran
+K2-133 e,0,Hot,Superterran
+K2-136 b,0,Hot,Terran
+K2-136 c,0,Hot,Neptunian
+K2-136 d,0,Hot,Terran
+K2-137 b,0,Hot,Jovian
+K2-138 b,0,Hot,Superterran
+K2-138 c,0,Hot,Neptunian
+K2-138 d,0,Hot,Neptunian
+K2-138 e,0,Hot,Neptunian
+K2-138 f,0,Hot,Neptunian
+K2-139 b,0,Hot,Jovian
+K2-14 b,0,Hot,Neptunian
+K2-140 b,0,Hot,Jovian
+K2-141 b,0,Hot,Superterran
+K2-141 c,0,Hot,Jovian
+K2-146 b,0,Hot,Superterran
+K2-146 c,0,Hot,Superterran
+K2-147 b,0,Hot,Terran
+K2-148 b,0,Hot,Terran
+K2-148 c,0,Hot,Superterran
+K2-148 d,0,Hot,Superterran
+K2-149 b,0,Hot,Superterran
+K2-15 b,0,Hot,Superterran
+K2-150 b,0,Hot,Superterran
+K2-151 b,0,Hot,Terran
+K2-152 b,0,Hot,Superterran
+K2-153 b,0,Hot,Superterran
+K2-154 b,0,Hot,Superterran
+K2-154 c,0,Hot,Superterran
+K2-155 b,0,Hot,Superterran
+K2-155 c,0,Hot,Neptunian
+K2-155 d,0,Hot,Superterran
+K2-156 b,0,Hot,Terran
+K2-157 b,0,Hot,Terran
+K2-158 b,0,Hot,Neptunian
+K2-158 c,0,Hot,Terran
+K2-159 b,0,Hot,Superterran
+K2-16 b,0,,Superterran
+K2-16 c,0,,Neptunian
+K2-160 b,0,Hot,Neptunian
+K2-161 b,0,Hot,Jovian
+K2-162 b,0,Hot,Terran
+K2-163 b,0,Hot,Superterran
+K2-164 b,0,Hot,Neptunian
+K2-165 b,0,Hot,Terran
+K2-165 c,0,Hot,Superterran
+K2-165 d,0,Hot,Neptunian
+K2-166 b,0,,Superterran
+K2-167 b,0,Hot,Neptunian
+K2-168 b,0,Hot,Superterran
+K2-169 b,0,Hot,Terran
+K2-17 b,0,Hot,Superterran
+K2-170 b,0,Hot,Terran
+K2-170 c,0,Hot,Superterran
+K2-171 b,0,Hot,Neptunian
+K2-172 b,0,Hot,Superterran
+K2-172 c,0,Hot,Neptunian
+K2-173 b,0,Hot,Superterran
+K2-174 b,0,Hot,Neptunian
+K2-175 b,0,Hot,Superterran
+K2-176 b,0,Hot,Terran
+K2-177 b,0,Hot,Superterran
+K2-178 b,0,Hot,Neptunian
+K2-179 b,0,Hot,Neptunian
+K2-18 b,1,Warm,Superterran
+K2-18 c,0,Hot,Superterran
+K2-180 b,0,Hot,Superterran
+K2-181 b,0,Hot,Neptunian
+K2-182 b,0,Hot,Neptunian
+K2-183 b,0,Hot,Neptunian
+K2-183 c,0,Hot,Neptunian
+K2-183 d,0,Hot,Neptunian
+K2-184 b,0,Hot,Superterran
+K2-185 b,0,Hot,Terran
+K2-186 b,0,Hot,Neptunian
+K2-187 b,0,Hot,Terran
+K2-187 c,0,Hot,Superterran
+K2-187 d,0,Hot,Neptunian
+K2-187 e,0,Hot,Superterran
+K2-188 b,0,Hot,Terran
+K2-188 c,0,Hot,Neptunian
+K2-189 b,0,Hot,Superterran
+K2-189 c,0,Hot,Superterran
+K2-19 b,0,Hot,Jovian
+K2-19 c,0,Hot,Neptunian
+K2-19 d,0,Hot,Terran
+K2-190 b,0,Hot,Terran
+K2-190 c,0,Hot,Terran
+K2-191 b,0,Hot,Superterran
+K2-192 b,0,Hot,Superterran
+K2-193 b,0,Hot,Neptunian
+K2-194 b,0,Hot,Neptunian
+K2-195 b,0,Hot,Neptunian
+K2-195 c,0,Hot,Neptunian
+K2-196 b,0,Hot,Neptunian
+K2-197 b,0,Hot,Neptunian
+K2-198 b,0,Hot,Neptunian
+K2-198 c,0,Hot,Terran
+K2-198 d,0,Hot,Superterran
+K2-199 b,0,Hot,Superterran
+K2-199 c,0,Hot,Neptunian
+K2-200 b,0,Hot,Terran
+K2-201 b,0,Hot,Terran
+K2-201 c,0,Hot,Neptunian
+K2-202 b,0,Hot,Superterran
+K2-203 b,0,Hot,Terran
+K2-204 b,0,Hot,Neptunian
+K2-205 b,0,Hot,Superterran
+K2-206 b,0,Hot,Neptunian
+K2-207 b,0,Hot,Neptunian
+K2-208 b,0,Hot,Superterran
+K2-209 b,0,Hot,Terran
+K2-21 b,0,Hot,Superterran
+K2-21 c,0,Hot,Superterran
+K2-210 b,0,Hot,Terran
+K2-211 b,0,Hot,Terran
+K2-212 b,0,Hot,Neptunian
+K2-213 b,0,Hot,Superterran
+K2-214 b,0,Hot,Superterran
+K2-215 b,0,Hot,Superterran
+K2-216 b,0,Hot,Superterran
+K2-217 b,0,Hot,Neptunian
+K2-218 b,0,Hot,Neptunian
+K2-219 b,0,Hot,Terran
+K2-219 c,0,Hot,Terran
+K2-219 d,0,Hot,Neptunian
+K2-22 b,0,Hot,Jovian
+K2-220 b,0,Hot,Superterran
+K2-221 b,0,Hot,Superterran
+K2-222 b,0,Hot,Superterran
+K2-223 b,0,Hot,Terran
+K2-223 c,0,Hot,Superterran
+K2-224 b,0,Hot,Superterran
+K2-224 c,0,Hot,Superterran
+K2-225 b,0,Hot,Neptunian
+K2-226 b,0,Hot,Superterran
+K2-227 b,0,Hot,Superterran
+K2-228 b,0,Hot,Terran
+K2-229 b,0,Hot,Terran
+K2-229 c,0,Hot,Superterran
+K2-230 b,0,Hot,Superterran
+K2-231 b,0,Hot,Superterran
+K2-232 b,0,Hot,Jovian
+K2-233 b,0,Hot,Terran
+K2-233 c,0,Hot,Terran
+K2-233 d,0,Hot,Neptunian
+K2-237 b,0,Hot,Jovian
+K2-238 b,0,Hot,Jovian
+K2-239 b,0,Hot,Terran
+K2-239 c,0,Hot,Terran
+K2-239 d,0,Hot,Terran
+K2-24 b,0,Hot,Neptunian
+K2-24 c,0,Hot,Jovian
+K2-240 b,0,Hot,Superterran
+K2-240 c,0,Hot,Superterran
+K2-241 b,0,Hot,Neptunian
+K2-242 b,0,Hot,Neptunian
+K2-243 b,0,Hot,Superterran
+K2-243 c,0,Hot,Superterran
+K2-244 b,0,Hot,Superterran
+K2-245 b,0,Hot,Neptunian
+K2-246 b,0,Hot,Neptunian
+K2-247 b,0,Hot,Superterran
+K2-247 c,0,Hot,Superterran
+K2-248 b,0,Hot,Neptunian
+K2-249 b,0,Hot,Neptunian
+K2-25 b,0,Hot,Neptunian
+K2-250 b,0,Hot,Superterran
+K2-251 b,0,Hot,Superterran
+K2-252 b,0,Hot,Superterran
+K2-253 b,0,Hot,Jovian
+K2-254 b,0,Hot,Superterran
+K2-254 c,0,Hot,Superterran
+K2-255 b,0,Hot,Neptunian
+K2-256 b,0,Hot,Neptunian
+K2-257 b,0,Hot,Terran
+K2-258 b,0,Hot,Neptunian
+K2-259 b,0,Hot,Superterran
+K2-26 b,0,Hot,Neptunian
+K2-260 b,0,Hot,Jovian
+K2-261 b,0,Hot,Jovian
+K2-263 b,0,Hot,Neptunian
+K2-264 b,0,Hot,Superterran
+K2-264 c,0,Hot,Neptunian
+K2-265 b,0,Hot,Superterran
+K2-266 b,0,Hot,Neptunian
+K2-266 c,0,Hot,Subterran
+K2-266 d,0,Hot,Neptunian
+K2-266 e,0,Hot,Neptunian
+K2-268 b,0,Hot,Terran
+K2-268 c,0,Hot,Neptunian
+K2-269 b,0,Hot,Superterran
+K2-27 b,0,Hot,Neptunian
+K2-270 b,0,Hot,Terran
+K2-270 c,0,Hot,Neptunian
+K2-271 b,0,Hot,Jovian
+K2-272 b,0,Hot,Neptunian
+K2-273 b,0,Hot,Neptunian
+K2-274 b,0,Hot,Superterran
+K2-275 b,0,Hot,Superterran
+K2-275 c,0,Hot,Superterran
+K2-276 b,0,Hot,Neptunian
+K2-277 b,0,Hot,Superterran
+K2-278 b,0,Hot,Neptunian
+K2-279 b,0,Hot,Terran
+K2-28 b,0,Hot,Superterran
+K2-280 b,0,Hot,Jovian
+K2-281 b,0,Hot,Jovian
+K2-282 b,0,,Neptunian
+K2-283 b,0,Hot,Neptunian
+K2-284 b,0,Hot,Neptunian
+K2-285 b,0,Hot,Neptunian
+K2-285 c,0,Hot,Neptunian
+K2-285 d,0,Hot,Superterran
+K2-285 e,0,Hot,Neptunian
+K2-286 b,0,Hot,Superterran
+K2-287 b,0,Hot,Jovian
+K2-288 B b,2,Warm,Superterran
+K2-289 b,0,Hot,Jovian
+K2-29 b,0,Hot,Jovian
+K2-290 b,0,Hot,Neptunian
+K2-290 c,0,Hot,Jovian
+K2-291 b,0,Hot,Superterran
+K2-293 b,0,Hot,Superterran
+K2-294 b,0,Hot,Superterran
+K2-295 b,0,Hot,Jovian
+K2-296 b,1,Warm,Superterran
+K2-296 c,0,Hot,Neptunian
+K2-3 b,0,Hot,Superterran
+K2-3 c,0,Hot,Superterran
+K2-3 d,1,Warm,Superterran
+K2-30 b,0,Hot,Jovian
+K2-31 b,0,Hot,Jovian
+K2-32 b,0,,Neptunian
+K2-32 c,0,,Neptunian
+K2-32 d,0,,Neptunian
+K2-32 e,0,,Terran
+K2-33 b,0,Hot,Jovian
+K2-34 b,0,Hot,Jovian
+K2-35 b,0,Hot,Superterran
+K2-35 c,0,Hot,Terran
+K2-36 b,0,Hot,Terran
+K2-36 c,0,Hot,Neptunian
+K2-37 b,0,Hot,Superterran
+K2-37 c,0,Hot,Neptunian
+K2-37 d,0,Hot,Neptunian
+K2-38 b,0,Hot,Neptunian
+K2-38 c,0,Hot,Superterran
+K2-39 b,0,Hot,Jovian
+K2-4 b,0,Hot,Superterran
+K2-42 b,0,Hot,Superterran
+K2-43 b,0,Hot,Neptunian
+K2-43 c,0,Hot,Superterran
+K2-44 b,0,Hot,Neptunian
+K2-45 b,0,Hot,Jovian
+K2-46 b,0,Hot,Superterran
+K2-47 b,0,Hot,Superterran
+K2-48 b,0,Hot,Superterran
+K2-49 b,0,Hot,Superterran
+K2-5 b,0,Hot,Superterran
+K2-5 c,0,Hot,Superterran
+K2-50 b,0,,Superterran
+K2-52 b,0,Hot,Jovian
+K2-53 b,0,Hot,Neptunian
+K2-54 b,0,Hot,Terran
+K2-55 b,0,Hot,Neptunian
+K2-57 b,0,Hot,Superterran
+K2-58 b,0,Hot,Neptunian
+K2-58 c,0,Hot,Superterran
+K2-58 d,0,Hot,Superterran
+K2-59 b,0,Hot,Superterran
+K2-59 c,0,Hot,Superterran
+K2-6 b,0,Hot,Superterran
+K2-60 b,0,Hot,Jovian
+K2-61 b,0,Hot,Superterran
+K2-62 b,0,Hot,Superterran
+K2-62 c,0,Hot,Superterran
+K2-63 b,0,Hot,Neptunian
+K2-63 c,0,Hot,Neptunian
+K2-64 b,0,Hot,Superterran
+K2-65 b,0,Hot,Superterran
+K2-66 b,0,Hot,Neptunian
+K2-68 b,0,Hot,Superterran
+K2-69 b,0,Hot,Superterran
+K2-7 b,0,Hot,Neptunian
+K2-70 b,0,Hot,Neptunian
+K2-71 b,0,Hot,Superterran
+K2-72 b,0,Hot,Terran
+K2-72 c,0,Hot,Terran
+K2-72 d,0,Hot,Terran
+K2-72 e,1,Warm,Terran
+K2-73 b,0,Hot,Superterran
+K2-74 b,0,Hot,Superterran
+K2-75 b,0,Hot,Neptunian
+K2-75 c,0,Hot,Neptunian
+K2-77 b,0,Hot,Jovian
+K2-79 b,0,Hot,Neptunian
+K2-8 b,0,Hot,Neptunian
+K2-8 c,0,Hot,Superterran
+K2-80 b,0,Hot,Superterran
+K2-80 c,0,Hot,Terran
+K2-80 d,0,Hot,Neptunian
+K2-81 b,0,Hot,Superterran
+K2-83 b,0,Hot,Terran
+K2-83 c,0,Hot,Terran
+K2-84 b,0,Hot,Superterran
+K2-84 c,0,Hot,Superterran
+K2-85 b,0,Hot,Terran
+K2-86 b,0,Hot,Superterran
+K2-87 b,0,Hot,Jovian
+K2-88 b,0,Hot,Terran
+K2-89 b,0,Hot,Subterran
+K2-9 b,1,Warm,Superterran
+K2-90 b,0,Hot,Neptunian
+K2-90 c,0,Hot,Terran
+K2-91 b,0,Hot,Terran
+K2-95 b,0,Hot,Neptunian
+K2-97 b,0,Hot,Jovian
+K2-98 b,0,Hot,Neptunian
+K2-99 b,0,Hot,Jovian
+kap And b,0,Cold,Jovian
+kap CrB b,0,Hot,Jovian
+Kapteyn c,0,Cold,Superterran
+KELT-1 b,0,Hot,Jovian
+KELT-10 b,0,Hot,Jovian
+KELT-11 b,0,Hot,Jovian
+KELT-12 b,0,Hot,Jovian
+KELT-14 b,0,Hot,Jovian
+KELT-15 b,0,Hot,Jovian
+KELT-16 b,0,Hot,Jovian
+KELT-17 b,0,Hot,Jovian
+KELT-18 b,0,Hot,Jovian
+KELT-19 A b,0,Hot,Jovian
+KELT-2 A b,0,Hot,Jovian
+KELT-20 b,0,Hot,Jovian
+KELT-21 b,0,Hot,Jovian
+KELT-23 A b,0,Hot,Jovian
+KELT-3 b,0,Hot,Jovian
+KELT-4 A b,0,Hot,Jovian
+KELT-6 b,0,Hot,Jovian
+KELT-6 c,2,Warm,Jovian
+KELT-7 b,0,Hot,Jovian
+KELT-8 b,0,Hot,Jovian
+KELT-9 b,0,Hot,Jovian
+Kepler-10 b,0,Hot,Terran
+Kepler-10 c,0,Hot,Neptunian
+Kepler-100 b,0,Hot,Superterran
+Kepler-100 c,0,Hot,Superterran
+Kepler-100 d,0,Hot,Superterran
+Kepler-1000 b,0,Hot,Neptunian
+Kepler-1001 b,0,Hot,Neptunian
+Kepler-1002 b,0,Hot,Superterran
+Kepler-1003 b,0,Hot,Superterran
+Kepler-1004 b,0,Hot,Jovian
+Kepler-1005 b,0,Hot,Superterran
+Kepler-1006 b,0,Hot,Superterran
+Kepler-1007 b,0,Hot,Terran
+Kepler-1008 b,0,Hot,Terran
+Kepler-1009 b,0,Hot,Superterran
+Kepler-101 b,0,Hot,Jovian
+Kepler-101 c,0,Hot,Terran
+Kepler-1010 b,0,Hot,Superterran
+Kepler-1011 b,0,Hot,Neptunian
+Kepler-1012 b,0,Hot,Terran
+Kepler-1013 b,0,Hot,Superterran
+Kepler-1014 b,0,Hot,Superterran
+Kepler-1015 b,0,Hot,Neptunian
+Kepler-1016 b,0,Hot,Superterran
+Kepler-1016 c,0,Hot,Neptunian
+Kepler-1017 b,0,Hot,Superterran
+Kepler-1018 b,0,Hot,Neptunian
+Kepler-1019 b,0,Hot,Terran
+Kepler-102 b,0,Hot,Terran
+Kepler-102 c,0,Hot,Terran
+Kepler-102 d,0,Hot,Terran
+Kepler-102 e,0,Hot,Superterran
+Kepler-102 f,0,Hot,Superterran
+Kepler-1020 b,0,Hot,Superterran
+Kepler-1021 b,0,Hot,Superterran
+Kepler-1022 b,0,Hot,Superterran
+Kepler-1023 b,0,Hot,Neptunian
+Kepler-1024 b,0,Hot,Neptunian
+Kepler-1025 b,0,Hot,Superterran
+Kepler-1026 b,0,Hot,Superterran
+Kepler-1027 b,0,Hot,Terran
+Kepler-1028 b,0,Hot,Terran
+Kepler-1029 b,0,Hot,Terran
+Kepler-103 b,0,Hot,Neptunian
+Kepler-103 c,0,Hot,Neptunian
+Kepler-1030 b,0,Hot,Superterran
+Kepler-1031 b,0,Hot,Terran
+Kepler-1032 b,0,Hot,Superterran
+Kepler-1033 b,0,Hot,Neptunian
+Kepler-1034 b,0,Hot,Superterran
+Kepler-1035 b,0,Hot,Terran
+Kepler-1036 b,0,Hot,Neptunian
+Kepler-1037 b,0,Hot,Terran
+Kepler-1038 b,0,Hot,Neptunian
+Kepler-1039 b,0,Hot,Terran
+Kepler-104 b,0,Hot,Neptunian
+Kepler-104 c,0,Hot,Neptunian
+Kepler-104 d,0,Hot,Neptunian
+Kepler-1040 b,0,Hot,Superterran
+Kepler-1041 b,0,Hot,Neptunian
+Kepler-1042 b,0,Hot,Superterran
+Kepler-1043 b,0,Hot,Neptunian
+Kepler-1044 b,0,Hot,Neptunian
+Kepler-1045 b,0,Hot,Neptunian
+Kepler-1046 b,0,Hot,Superterran
+Kepler-1047 b,0,Hot,Superterran
+Kepler-1047 c,0,Hot,Terran
+Kepler-1048 b,0,Hot,Superterran
+Kepler-1049 b,0,Hot,Terran
+Kepler-105 b,0,Hot,Neptunian
+Kepler-105 c,0,Hot,Terran
+Kepler-1050 b,0,Hot,Superterran
+Kepler-1050 c,0,Hot,Terran
+Kepler-1051 b,0,Hot,Neptunian
+Kepler-1052 b,0,Hot,Neptunian
+Kepler-1053 b,0,Hot,Terran
+Kepler-1054 b,0,Hot,Neptunian
+Kepler-1055 b,0,Hot,Terran
+Kepler-1056 b,0,Hot,Neptunian
+Kepler-1057 b,0,Hot,Neptunian
+Kepler-1058 b,1,Warm,Neptunian
+Kepler-1059 b,0,Hot,Superterran
+Kepler-106 b,0,Hot,Superterran
+Kepler-106 c,0,Hot,Neptunian
+Kepler-106 d,0,Hot,Superterran
+Kepler-106 e,0,Hot,Neptunian
+Kepler-1060 b,0,Hot,Superterran
+Kepler-1061 b,0,Hot,Superterran
+Kepler-1062 b,0,Hot,Superterran
+Kepler-1063 b,0,Hot,Terran
+Kepler-1064 b,0,Hot,Superterran
+Kepler-1065 b,0,Hot,Neptunian
+Kepler-1065 c,0,Hot,Superterran
+Kepler-1066 b,0,Hot,Superterran
+Kepler-1067 b,0,Hot,Subterran
+Kepler-1068 b,0,Hot,Neptunian
+Kepler-1069 b,0,Hot,Superterran
+Kepler-107 b,0,Hot,Superterran
+Kepler-107 c,0,Hot,Superterran
+Kepler-107 d,0,Hot,Terran
+Kepler-107 e,0,Hot,Neptunian
+Kepler-1070 b,0,Hot,Superterran
+Kepler-1071 b,0,Hot,Superterran
+Kepler-1072 b,0,Hot,Superterran
+Kepler-1073 b,0,Hot,Superterran
+Kepler-1073 c,0,Hot,Superterran
+Kepler-1074 b,0,Hot,Terran
+Kepler-1075 b,0,Hot,Terran
+Kepler-1076 b,0,Hot,Subterran
+Kepler-1077 b,0,Hot,Neptunian
+Kepler-1078 b,0,Hot,Superterran
+Kepler-1079 b,0,Hot,Superterran
+Kepler-108 b,0,Hot,Jovian
+Kepler-108 c,0,Hot,Jovian
+Kepler-1080 b,0,Hot,Neptunian
+Kepler-1081 b,0,Hot,Terran
+Kepler-1082 b,0,Hot,Terran
+Kepler-1083 b,0,Hot,Neptunian
+Kepler-1084 b,0,Hot,Terran
+Kepler-1085 b,0,Hot,Jovian
+Kepler-1086 b,0,Hot,Superterran
+Kepler-1086 c,2,Warm,Neptunian
+Kepler-1087 b,0,Hot,Subterran
+Kepler-1088 b,0,Hot,Terran
+Kepler-1089 b,0,Hot,Superterran
+Kepler-109 b,0,Hot,Superterran
+Kepler-109 c,0,Hot,Neptunian
+Kepler-1090 b,1,Warm,Superterran
+Kepler-1091 b,0,Hot,Terran
+Kepler-1092 b,0,Hot,Superterran
+Kepler-1093 b,0,Hot,Superterran
+Kepler-1093 c,0,Hot,Superterran
+Kepler-1094 b,0,Hot,Neptunian
+Kepler-1095 b,0,Hot,Terran
+Kepler-1096 b,0,Hot,Terran
+Kepler-1097 b,1,Warm,Neptunian
+Kepler-1098 b,0,Hot,Terran
+Kepler-1099 b,0,Hot,Neptunian
+Kepler-11 b,0,Hot,Superterran
+Kepler-11 c,0,Hot,Neptunian
+Kepler-11 d,0,Hot,Neptunian
+Kepler-11 e,0,Hot,Neptunian
+Kepler-11 f,0,Hot,Superterran
+Kepler-11 g,0,Hot,Neptunian
+Kepler-110 b,0,Hot,Superterran
+Kepler-110 c,0,Hot,Superterran
+Kepler-1100 b,0,Hot,Superterran
+Kepler-1101 b,0,Hot,Superterran
+Kepler-1102 b,0,Hot,Neptunian
+Kepler-1103 b,0,Hot,Superterran
+Kepler-1104 b,0,Hot,Terran
+Kepler-1105 b,0,Hot,Superterran
+Kepler-1106 b,0,Hot,Superterran
+Kepler-1107 b,0,Hot,Terran
+Kepler-1108 b,0,Hot,Terran
+Kepler-1109 b,0,Hot,Superterran
+Kepler-111 b,0,Hot,Superterran
+Kepler-111 c,0,Hot,Jovian
+Kepler-1110 b,0,Hot,Neptunian
+Kepler-1111 b,0,Hot,Superterran
+Kepler-1112 b,0,Hot,Neptunian
+Kepler-1113 b,0,Hot,Neptunian
+Kepler-1114 b,0,Hot,Terran
+Kepler-1115 b,0,Hot,Superterran
+Kepler-1116 b,0,Hot,Neptunian
+Kepler-1117 b,0,Hot,Terran
+Kepler-1118 b,0,Hot,Neptunian
+Kepler-1119 b,0,Hot,Superterran
+Kepler-112 b,0,Hot,Superterran
+Kepler-112 c,0,Hot,Superterran
+Kepler-1120 b,0,Hot,Terran
+Kepler-1121 b,0,Hot,Superterran
+Kepler-1122 b,0,Hot,Superterran
+Kepler-1123 b,0,Hot,Superterran
+Kepler-1124 b,0,Hot,Terran
+Kepler-1125 b,0,Hot,Superterran
+Kepler-1126 b,0,Hot,Superterran
+Kepler-1127 b,0,Hot,Superterran
+Kepler-1128 b,0,Hot,Neptunian
+Kepler-1129 b,0,Hot,Neptunian
+Kepler-1129 c,0,Hot,Neptunian
+Kepler-113 b,0,Hot,Neptunian
+Kepler-113 c,0,Hot,Superterran
+Kepler-1130 b,0,Hot,Subterran
+Kepler-1131 b,0,Hot,Superterran
+Kepler-1132 b,0,Hot,Superterran
+Kepler-1133 b,0,Hot,Superterran
+Kepler-1134 b,0,Hot,Neptunian
+Kepler-1135 b,0,Hot,Superterran
+Kepler-1136 b,0,Hot,Superterran
+Kepler-1137 b,0,Hot,Superterran
+Kepler-1138 b,0,Hot,Superterran
+Kepler-1139 b,0,Hot,Terran
+Kepler-114 b,0,Hot,Terran
+Kepler-114 c,0,,Superterran
+Kepler-114 d,0,,Neptunian
+Kepler-1140 b,0,Hot,Neptunian
+Kepler-1141 b,0,Hot,Terran
+Kepler-1142 b,0,Hot,Terran
+Kepler-1143 b,0,Hot,Superterran
+Kepler-1143 c,2,Warm,Neptunian
+Kepler-1144 b,0,Hot,Superterran
+Kepler-1145 b,0,Hot,Terran
+Kepler-1146 b,0,Hot,Terran
+Kepler-1147 b,0,Hot,Neptunian
+Kepler-1148 b,0,Hot,Superterran
+Kepler-1149 b,0,Hot,Terran
+Kepler-115 b,0,Hot,Terran
+Kepler-115 c,0,Hot,Neptunian
+Kepler-1150 b,0,Hot,Terran
+Kepler-1151 b,0,Hot,Superterran
+Kepler-1152 b,0,Hot,Terran
+Kepler-1153 b,0,Hot,Superterran
+Kepler-1154 b,0,Hot,Superterran
+Kepler-1154 c,0,Hot,Superterran
+Kepler-1155 b,0,Hot,Superterran
+Kepler-1156 b,0,Hot,Terran
+Kepler-1157 b,0,Hot,Terran
+Kepler-1158 b,0,Hot,Superterran
+Kepler-1159 b,0,Hot,Superterran
+Kepler-116 b,0,Hot,Neptunian
+Kepler-116 c,0,Hot,Superterran
+Kepler-1160 b,0,Hot,Superterran
+Kepler-1161 b,0,Hot,Superterran
+Kepler-1162 b,0,Hot,Superterran
+Kepler-1163 b,0,Hot,Terran
+Kepler-1164 b,0,Hot,Terran
+Kepler-1165 b,0,Hot,Superterran
+Kepler-1166 b,0,Hot,Superterran
+Kepler-1167 b,0,Hot,Superterran
+Kepler-1168 b,0,Hot,Superterran
+Kepler-1169 b,0,Hot,Terran
+Kepler-117 b,0,Hot,Jovian
+Kepler-117 c,0,Hot,Jovian
+Kepler-1170 b,0,Hot,Superterran
+Kepler-1171 b,0,Hot,Neptunian
+Kepler-1172 b,0,Hot,Neptunian
+Kepler-1173 b,0,Hot,Terran
+Kepler-1174 b,0,Hot,Superterran
+Kepler-1175 b,0,Hot,Neptunian
+Kepler-1176 b,0,Hot,Superterran
+Kepler-1177 b,0,Hot,Superterran
+Kepler-1178 b,0,Hot,Terran
+Kepler-1179 b,0,Hot,Terran
+Kepler-118 b,0,Hot,Superterran
+Kepler-118 c,0,Hot,Jovian
+Kepler-1180 b,0,Hot,Superterran
+Kepler-1181 b,0,Hot,Superterran
+Kepler-1182 b,0,Hot,Superterran
+Kepler-1183 b,0,Hot,Neptunian
+Kepler-1184 b,0,Hot,Neptunian
+Kepler-1185 b,0,Hot,Terran
+Kepler-1186 b,0,Hot,Superterran
+Kepler-1187 b,0,Hot,Neptunian
+Kepler-1188 b,0,Hot,Superterran
+Kepler-1189 b,0,Hot,Superterran
+Kepler-119 b,0,Hot,Neptunian
+Kepler-119 c,0,Hot,Terran
+Kepler-1190 b,0,Hot,Terran
+Kepler-1191 b,0,Hot,Superterran
+Kepler-1192 b,0,Hot,Superterran
+Kepler-1193 b,0,Hot,Terran
+Kepler-1194 b,0,Hot,Superterran
+Kepler-1195 b,0,Hot,Superterran
+Kepler-1196 b,0,Hot,Superterran
+Kepler-1197 b,0,Hot,Terran
+Kepler-1198 b,0,Hot,Terran
+Kepler-1199 b,0,Hot,Terran
+Kepler-12 b,0,Hot,Jovian
+Kepler-120 b,0,Hot,Superterran
+Kepler-120 c,0,Hot,Superterran
+Kepler-1200 b,0,Hot,Terran
+Kepler-1201 b,0,Hot,Superterran
+Kepler-1202 b,0,Hot,Neptunian
+Kepler-1203 b,0,Hot,Terran
+Kepler-1204 b,0,Hot,Neptunian
+Kepler-1205 b,0,Hot,Terran
+Kepler-1206 b,0,Hot,Superterran
+Kepler-1207 b,0,Hot,Superterran
+Kepler-1208 b,0,Hot,Superterran
+Kepler-1209 b,0,Hot,Superterran
+Kepler-121 b,0,Hot,Superterran
+Kepler-121 c,0,Hot,Superterran
+Kepler-1210 b,0,Hot,Superterran
+Kepler-1211 b,0,Hot,Neptunian
+Kepler-1212 b,0,Hot,Superterran
+Kepler-1213 b,0,Hot,Terran
+Kepler-1214 b,0,Hot,Superterran
+Kepler-1215 b,0,Hot,Terran
+Kepler-1216 b,0,Hot,Terran
+Kepler-1217 b,0,Hot,Superterran
+Kepler-1218 b,0,Hot,Terran
+Kepler-1219 b,0,Hot,Superterran
+Kepler-122 b,0,Hot,Superterran
+Kepler-122 c,0,Hot,Neptunian
+Kepler-122 d,0,Hot,Superterran
+Kepler-122 e,0,Hot,Neptunian
+Kepler-122 f,0,,Neptunian
+Kepler-1220 b,0,Hot,Superterran
+Kepler-1221 b,0,Hot,Superterran
+Kepler-1222 b,0,Hot,Subterran
+Kepler-1223 b,0,Hot,Terran
+Kepler-1224 b,0,Hot,Terran
+Kepler-1225 b,0,Hot,Superterran
+Kepler-1226 b,0,Hot,Terran
+Kepler-1227 b,0,Hot,Superterran
+Kepler-1228 b,0,Hot,Superterran
+Kepler-1229 b,2,Warm,Terran
+Kepler-123 b,0,Hot,Neptunian
+Kepler-123 c,0,Hot,Terran
+Kepler-1230 b,0,Hot,Neptunian
+Kepler-1231 b,0,Hot,Terran
+Kepler-1232 b,0,Hot,Superterran
+Kepler-1233 b,0,Hot,Neptunian
+Kepler-1234 b,0,Hot,Neptunian
+Kepler-1235 b,0,Hot,Subterran
+Kepler-1236 b,0,Hot,Superterran
+Kepler-1237 b,0,Hot,Neptunian
+Kepler-1238 b,0,Hot,Superterran
+Kepler-1239 b,0,Hot,Neptunian
+Kepler-124 b,0,Hot,Subterran
+Kepler-124 c,0,Hot,Superterran
+Kepler-124 d,0,Hot,Terran
+Kepler-1240 b,0,Hot,Terran
+Kepler-1241 b,0,Hot,Neptunian
+Kepler-1242 b,0,Hot,Superterran
+Kepler-1243 b,0,Hot,Superterran
+Kepler-1244 b,0,Hot,Terran
+Kepler-1245 b,0,Hot,Terran
+Kepler-1245 c,0,Hot,Terran
+Kepler-1246 b,0,Hot,Terran
+Kepler-1247 b,0,Hot,Superterran
+Kepler-1248 b,0,Hot,Terran
+Kepler-1249 b,0,Hot,Superterran
+Kepler-125 b,0,Hot,Superterran
+Kepler-125 c,0,Hot,Subterran
+Kepler-1250 b,0,Hot,Superterran
+Kepler-1251 b,0,Hot,Superterran
+Kepler-1252 b,0,Hot,Superterran
+Kepler-1253 b,0,Hot,Terran
+Kepler-1254 b,0,Hot,Superterran
+Kepler-1254 c,0,Hot,Terran
+Kepler-1254 d,0,Hot,Terran
+Kepler-1255 b,0,Hot,Superterran
+Kepler-1256 b,0,Hot,Terran
+Kepler-1257 b,0,Hot,Superterran
+Kepler-1258 b,0,Hot,Terran
+Kepler-1259 b,0,Hot,Terran
+Kepler-126 b,0,Hot,Superterran
+Kepler-126 c,0,Hot,Superterran
+Kepler-126 d,0,Hot,Superterran
+Kepler-1260 b,0,Hot,Superterran
+Kepler-1261 b,0,Hot,Superterran
+Kepler-1262 b,0,Hot,Superterran
+Kepler-1263 b,0,Hot,Terran
+Kepler-1264 b,0,Hot,Terran
+Kepler-1265 b,0,Hot,Terran
+Kepler-1266 b,0,Hot,Neptunian
+Kepler-1267 b,0,Hot,Neptunian
+Kepler-1268 b,0,Hot,Superterran
+Kepler-1269 b,0,Hot,Superterran
+Kepler-127 b,0,Hot,Terran
+Kepler-127 c,0,Hot,Neptunian
+Kepler-127 d,0,Hot,Neptunian
+Kepler-1270 b,0,Hot,Neptunian
+Kepler-1271 b,0,Hot,Terran
+Kepler-1272 b,0,Hot,Superterran
+Kepler-1273 b,0,Hot,Superterran
+Kepler-1274 b,0,Hot,Terran
+Kepler-1275 b,0,Hot,Terran
+Kepler-1276 b,0,Hot,Terran
+Kepler-1277 b,0,Hot,Superterran
+Kepler-1278 b,0,Hot,Terran
+Kepler-1279 b,0,Hot,Superterran
+Kepler-128 b,0,,Terran
+Kepler-128 c,0,,Terran
+Kepler-1280 b,0,Hot,Superterran
+Kepler-1281 b,0,Hot,Superterran
+Kepler-1282 b,0,Hot,Superterran
+Kepler-1283 b,0,Hot,Superterran
+Kepler-1284 b,0,Hot,Terran
+Kepler-1285 b,0,Hot,Terran
+Kepler-1286 b,0,Hot,Superterran
+Kepler-1287 b,0,Hot,Superterran
+Kepler-1288 b,0,Hot,Terran
+Kepler-1289 b,0,Hot,Superterran
+Kepler-129 b,0,Hot,Superterran
+Kepler-129 c,0,Hot,Neptunian
+Kepler-1290 b,0,Hot,Terran
+Kepler-1291 b,0,Hot,Superterran
+Kepler-1292 b,0,Hot,Superterran
+Kepler-1293 b,0,Hot,Terran
+Kepler-1294 b,0,Hot,Neptunian
+Kepler-1295 b,0,Hot,Superterran
+Kepler-1296 b,0,Hot,Terran
+Kepler-1297 b,0,Hot,Terran
+Kepler-1298 b,0,Hot,Terran
+Kepler-1299 b,0,Hot,Neptunian
+Kepler-130 b,0,Hot,Terran
+Kepler-130 c,0,Hot,Neptunian
+Kepler-130 d,0,Hot,Superterran
+Kepler-1300 b,0,Hot,Terran
+Kepler-1301 b,0,Hot,Terran
+Kepler-1302 b,0,Hot,Terran
+Kepler-1303 b,0,Hot,Terran
+Kepler-1304 b,0,Hot,Superterran
+Kepler-1305 b,0,Hot,Superterran
+Kepler-1306 b,0,Hot,Superterran
+Kepler-1307 b,0,Hot,Superterran
+Kepler-1308 b,0,Hot,Subterran
+Kepler-1309 b,0,Hot,Superterran
+Kepler-131 b,0,Hot,Neptunian
+Kepler-131 c,0,Hot,Superterran
+Kepler-1310 b,0,Hot,Terran
+Kepler-1311 b,0,Hot,Terran
+Kepler-1311 c,0,Hot,Terran
+Kepler-1312 b,0,Hot,Superterran
+Kepler-1313 b,0,Hot,Superterran
+Kepler-1314 b,0,Hot,Neptunian
+Kepler-1315 b,0,Hot,Terran
+Kepler-1316 b,0,Hot,Neptunian
+Kepler-1317 b,0,Hot,Superterran
+Kepler-1318 b,2,Warm,Neptunian
+Kepler-1319 b,0,Hot,Terran
+Kepler-132 b,0,Hot,Terran
+Kepler-132 c,0,Hot,Terran
+Kepler-132 d,0,Hot,Superterran
+Kepler-132 e,0,,Terran
+Kepler-1320 b,0,Hot,Superterran
+Kepler-1321 b,0,Hot,Neptunian
+Kepler-1321 c,0,Hot,Superterran
+Kepler-1322 b,0,Hot,Superterran
+Kepler-1323 b,0,Hot,Superterran
+Kepler-1324 b,0,Hot,Superterran
+Kepler-1325 b,0,Hot,Neptunian
+Kepler-1326 b,0,Hot,Neptunian
+Kepler-1327 b,0,Hot,Superterran
+Kepler-1328 b,0,Hot,Terran
+Kepler-1329 b,0,Hot,Superterran
+Kepler-133 b,0,Hot,Superterran
+Kepler-133 c,0,Hot,Neptunian
+Kepler-1330 b,0,Hot,Superterran
+Kepler-1331 b,0,Hot,Terran
+Kepler-1332 b,0,Hot,Terran
+Kepler-1333 b,0,Hot,Neptunian
+Kepler-1334 b,0,Hot,Superterran
+Kepler-1335 b,0,Hot,Terran
+Kepler-1336 b,0,Hot,Superterran
+Kepler-1336 c,0,Hot,Superterran
+Kepler-1337 b,0,Hot,Superterran
+Kepler-1338 b,0,Hot,Terran
+Kepler-1339 b,0,Hot,Subterran
+Kepler-134 b,0,Hot,Superterran
+Kepler-134 c,0,Hot,Terran
+Kepler-1340 b,0,Hot,Superterran
+Kepler-1341 b,2,Warm,Neptunian
+Kepler-1342 b,0,Hot,Superterran
+Kepler-1343 b,0,Hot,Superterran
+Kepler-1344 b,0,Hot,Superterran
+Kepler-1345 b,0,Hot,Superterran
+Kepler-1346 b,0,Hot,Superterran
+Kepler-1347 b,0,Hot,Terran
+Kepler-1348 b,0,Hot,Superterran
+Kepler-1349 b,0,Hot,Subterran
+Kepler-135 b,0,Hot,Superterran
+Kepler-135 c,0,Hot,Terran
+Kepler-1350 b,0,Hot,Neptunian
+Kepler-1350 c,0,Hot,Superterran
+Kepler-1351 b,0,Hot,Subterran
+Kepler-1352 b,0,Hot,Terran
+Kepler-1353 b,0,Hot,Superterran
+Kepler-1354 b,0,Hot,Neptunian
+Kepler-1355 b,0,Hot,Terran
+Kepler-1356 b,0,Hot,Superterran
+Kepler-1357 b,0,Hot,Terran
+Kepler-1358 b,0,Hot,Terran
+Kepler-1359 b,0,Hot,Neptunian
+Kepler-136 b,0,Hot,Superterran
+Kepler-136 c,0,Hot,Superterran
+Kepler-1360 b,0,Hot,Neptunian
+Kepler-1361 b,0,Hot,Terran
+Kepler-1362 b,1,Warm,Neptunian
+Kepler-1363 b,0,Hot,Terran
+Kepler-1364 b,0,Hot,Superterran
+Kepler-1365 b,0,Hot,Terran
+Kepler-1365 c,0,Hot,Subterran
+Kepler-1366 b,0,Hot,Terran
+Kepler-1367 b,0,Hot,Terran
+Kepler-1368 b,0,Hot,Superterran
+Kepler-1369 b,0,Hot,Neptunian
+Kepler-137 b,0,Hot,Terran
+Kepler-137 c,0,Hot,Superterran
+Kepler-1370 b,0,Hot,Superterran
+Kepler-1370 c,0,Hot,Terran
+Kepler-1371 b,0,Hot,Subterran
+Kepler-1371 c,0,Hot,Subterran
+Kepler-1372 b,0,Hot,Terran
+Kepler-1373 b,0,Hot,Terran
+Kepler-1374 b,0,Hot,Superterran
+Kepler-1375 b,0,Hot,Superterran
+Kepler-1376 b,0,Hot,Terran
+Kepler-1377 b,0,Hot,Terran
+Kepler-1378 b,0,Hot,Superterran
+Kepler-1379 b,0,Hot,Terran
+Kepler-138 b,0,Hot,Subterran
+Kepler-138 c,0,Hot,Terran
+Kepler-138 d,0,Hot,Terran
+Kepler-1380 b,0,Hot,Terran
+Kepler-1381 b,0,Hot,Superterran
+Kepler-1382 b,0,Hot,Superterran
+Kepler-1383 b,0,Hot,Terran
+Kepler-1384 b,0,Hot,Superterran
+Kepler-1385 b,0,Hot,Terran
+Kepler-1386 b,0,Hot,Terran
+Kepler-1387 b,0,Hot,Terran
+Kepler-1388 b,0,Hot,Neptunian
+Kepler-1388 c,0,Hot,Superterran
+Kepler-1388 d,0,Hot,Neptunian
+Kepler-1388 e,0,Hot,Superterran
+Kepler-1389 b,0,Hot,Superterran
+Kepler-139 b,0,Hot,Neptunian
+Kepler-139 c,0,Hot,Neptunian
+Kepler-1390 b,0,Hot,Terran
+Kepler-1391 b,0,Hot,Superterran
+Kepler-1392 b,0,Hot,Superterran
+Kepler-1393 b,0,Hot,Subterran
+Kepler-1394 b,0,Hot,Terran
+Kepler-1395 b,0,Hot,Subterran
+Kepler-1396 b,0,Hot,Superterran
+Kepler-1397 b,0,Hot,Superterran
+Kepler-1398 b,0,Hot,Terran
+Kepler-1398 c,0,Hot,Terran
+Kepler-1399 b,0,Hot,Terran
+Kepler-14 b,0,Hot,Jovian
+Kepler-140 b,0,Hot,Superterran
+Kepler-140 c,0,Hot,Superterran
+Kepler-1400 b,0,Hot,Superterran
+Kepler-1401 b,0,Hot,Superterran
+Kepler-1402 b,0,Hot,Subterran
+Kepler-1403 b,0,Hot,Superterran
+Kepler-1404 b,0,Hot,Superterran
+Kepler-1405 b,0,Hot,Neptunian
+Kepler-1406 b,0,Hot,Terran
+Kepler-1407 b,0,Hot,Superterran
+Kepler-1408 b,0,Hot,Terran
+Kepler-1409 b,0,Hot,Terran
+Kepler-141 b,0,Hot,Subterran
+Kepler-141 c,0,Hot,Terran
+Kepler-1410 b,1,Warm,Superterran
+Kepler-1411 b,0,Hot,Neptunian
+Kepler-1412 b,0,Hot,Terran
+Kepler-1413 b,0,Hot,Superterran
+Kepler-1414 b,0,Hot,Terran
+Kepler-1415 b,0,Hot,Terran
+Kepler-1416 b,0,Hot,Terran
+Kepler-1417 b,0,Hot,Terran
+Kepler-1418 b,0,Hot,Superterran
+Kepler-1419 b,0,Hot,Neptunian
+Kepler-142 b,0,Hot,Superterran
+Kepler-142 c,0,Hot,Neptunian
+Kepler-142 d,0,Hot,Superterran
+Kepler-1420 b,0,Hot,Terran
+Kepler-1421 b,0,Hot,Terran
+Kepler-1422 b,0,Hot,Superterran
+Kepler-1423 b,0,Hot,Terran
+Kepler-1424 b,0,Hot,Terran
+Kepler-1425 b,0,Hot,Terran
+Kepler-1426 b,0,Hot,Superterran
+Kepler-1427 b,0,Hot,Terran
+Kepler-1428 b,0,Hot,Superterran
+Kepler-1429 b,0,Hot,Terran
+Kepler-143 b,0,Hot,Superterran
+Kepler-143 c,0,Hot,Neptunian
+Kepler-1430 b,0,Hot,Terran
+Kepler-1431 b,0,Hot,Terran
+Kepler-1432 b,0,Hot,Superterran
+Kepler-1433 b,0,Hot,Superterran
+Kepler-1434 b,0,Hot,Terran
+Kepler-1435 b,0,Hot,Terran
+Kepler-1436 b,0,Hot,Terran
+Kepler-1437 b,0,Hot,Terran
+Kepler-1438 b,0,Hot,Terran
+Kepler-1439 b,0,Hot,Terran
+Kepler-144 b,0,Hot,Terran
+Kepler-144 c,0,Hot,Terran
+Kepler-1440 b,0,Hot,Terran
+Kepler-1441 b,0,Hot,Terran
+Kepler-1442 b,0,Hot,Neptunian
+Kepler-1443 b,0,Hot,Terran
+Kepler-1444 b,0,Hot,Superterran
+Kepler-1445 b,0,Hot,Terran
+Kepler-1446 b,0,Hot,Terran
+Kepler-1447 b,0,Hot,Neptunian
+Kepler-1448 b,0,Hot,Superterran
+Kepler-1449 b,0,Hot,Superterran
+Kepler-145 b,0,Hot,Neptunian
+Kepler-145 c,0,Hot,Jovian
+Kepler-1450 b,0,Hot,Superterran
+Kepler-1451 b,0,Hot,Neptunian
+Kepler-1452 b,0,Hot,Neptunian
+Kepler-1453 b,0,Hot,Neptunian
+Kepler-1454 b,0,Hot,Superterran
+Kepler-1455 b,0,Hot,Superterran
+Kepler-1456 b,0,Hot,Terran
+Kepler-1457 b,0,Hot,Superterran
+Kepler-1458 b,0,Hot,Neptunian
+Kepler-1459 b,0,Hot,Terran
+Kepler-146 b,0,Hot,Neptunian
+Kepler-146 c,0,Hot,Neptunian
+Kepler-1460 b,0,Hot,Superterran
+Kepler-1461 b,0,Hot,Superterran
+Kepler-1462 b,0,Hot,Neptunian
+Kepler-1463 b,0,Hot,Superterran
+Kepler-1464 b,0,Hot,Superterran
+Kepler-1464 c,0,Hot,Terran
+Kepler-1465 b,0,Hot,Superterran
+Kepler-1466 b,0,Hot,Superterran
+Kepler-1467 b,0,Hot,Neptunian
+Kepler-1468 b,0,Hot,Superterran
+Kepler-1468 c,0,Hot,Terran
+Kepler-1469 b,0,Hot,Neptunian
+Kepler-147 b,0,Hot,Superterran
+Kepler-147 c,0,Hot,Superterran
+Kepler-1470 b,0,Hot,Terran
+Kepler-1471 b,0,Hot,Terran
+Kepler-1472 b,0,Hot,Superterran
+Kepler-1473 b,0,Hot,Terran
+Kepler-1474 b,0,Hot,Superterran
+Kepler-1475 b,0,Hot,Neptunian
+Kepler-1476 b,0,Hot,Superterran
+Kepler-1477 b,0,Hot,Terran
+Kepler-1478 b,0,Hot,Superterran
+Kepler-1479 b,0,Hot,Superterran
+Kepler-148 b,0,Hot,Superterran
+Kepler-148 c,0,Hot,Neptunian
+Kepler-148 d,0,,Jovian
+Kepler-1480 b,0,Hot,Superterran
+Kepler-1481 b,0,Hot,Terran
+Kepler-1482 b,0,Hot,Terran
+Kepler-1483 b,0,Hot,Superterran
+Kepler-1484 b,0,Hot,Superterran
+Kepler-1485 b,0,Hot,Terran
+Kepler-1486 b,0,Hot,Superterran
+Kepler-1487 b,0,Hot,Superterran
+Kepler-1488 b,0,Hot,Superterran
+Kepler-1489 b,0,Hot,Superterran
+Kepler-149 b,0,Hot,Neptunian
+Kepler-149 c,0,Hot,Superterran
+Kepler-149 d,0,Hot,Neptunian
+Kepler-1490 b,0,Hot,Neptunian
+Kepler-1491 b,0,Hot,Superterran
+Kepler-1492 b,0,Hot,Terran
+Kepler-1493 b,0,Hot,Terran
+Kepler-1494 b,0,Hot,Neptunian
+Kepler-1495 b,0,Hot,Neptunian
+Kepler-1496 b,0,Hot,Superterran
+Kepler-1497 b,0,Hot,Superterran
+Kepler-1498 b,0,Hot,Terran
+Kepler-1499 b,0,Hot,Terran
+Kepler-15 b,0,Hot,Jovian
+Kepler-150 b,0,Hot,Terran
+Kepler-150 c,0,Hot,Neptunian
+Kepler-150 d,0,Hot,Neptunian
+Kepler-150 e,0,Hot,Neptunian
+Kepler-150 f,2,Warm,Neptunian
+Kepler-1500 b,0,Hot,Terran
+Kepler-1501 b,0,Hot,Superterran
+Kepler-1502 b,0,Hot,Neptunian
+Kepler-1503 b,0,Hot,Superterran
+Kepler-1504 b,0,Hot,Superterran
+Kepler-1505 b,0,Hot,Terran
+Kepler-1506 b,0,Hot,Terran
+Kepler-1507 b,0,Hot,Terran
+Kepler-1508 b,0,Hot,Terran
+Kepler-1509 b,0,Hot,Superterran
+Kepler-151 b,0,Hot,Neptunian
+Kepler-151 c,0,Hot,Superterran
+Kepler-1510 b,0,Hot,Neptunian
+Kepler-1511 b,0,Hot,Superterran
+Kepler-1512 b,0,Hot,Terran
+Kepler-1513 b,0,Hot,Jovian
+Kepler-1514 b,0,Hot,Jovian
+Kepler-1515 b,0,Hot,Jovian
+Kepler-1516 b,0,Hot,Superterran
+Kepler-1517 b,0,Hot,Jovian
+Kepler-1518 b,0,Hot,Neptunian
+Kepler-1519 b,1,Warm,Jovian
+Kepler-152 b,0,Hot,Neptunian
+Kepler-152 c,0,Hot,Superterran
+Kepler-1520 b,0,Hot,Neptunian
+Kepler-1521 b,0,Hot,Superterran
+Kepler-1522 b,0,Hot,Superterran
+Kepler-1523 b,0,Hot,Superterran
+Kepler-1524 b,0,Hot,Neptunian
+Kepler-1525 b,0,Hot,Terran
+Kepler-1526 b,0,Hot,Superterran
+Kepler-1527 b,0,Hot,Neptunian
+Kepler-1528 b,0,Hot,Terran
+Kepler-1529 b,0,Hot,Superterran
+Kepler-153 b,0,Hot,Neptunian
+Kepler-153 c,0,Hot,Neptunian
+Kepler-1530 b,0,Hot,Superterran
+Kepler-1530 c,0,Hot,Superterran
+Kepler-1531 b,0,Hot,Terran
+Kepler-1532 b,0,Hot,Terran
+Kepler-1533 b,0,Hot,Neptunian
+Kepler-1534 b,0,Hot,Superterran
+Kepler-1535 b,0,Hot,Neptunian
+Kepler-1536 b,0,Cold,Neptunian
+Kepler-1537 b,0,Hot,Terran
+Kepler-1538 b,0,Hot,Neptunian
+Kepler-1539 b,0,Hot,Neptunian
+Kepler-154 b,0,Hot,Superterran
+Kepler-154 c,0,Hot,Neptunian
+Kepler-154 d,0,,Neptunian
+Kepler-154 e,0,,Superterran
+Kepler-154 f,0,,Superterran
+Kepler-1540 b,2,Warm,Superterran
+Kepler-1541 b,0,Hot,Terran
+Kepler-1542 b,0,Hot,Subterran
+Kepler-1542 c,0,Hot,Subterran
+Kepler-1542 d,0,Hot,Terran
+Kepler-1542 e,0,Hot,Subterran
+Kepler-1543 b,0,Hot,Neptunian
+Kepler-1544 b,2,Warm,Superterran
+Kepler-1545 b,1,Warm,Neptunian
+Kepler-1546 b,0,Hot,Neptunian
+Kepler-1547 b,0,Hot,Terran
+Kepler-1548 b,0,Hot,Neptunian
+Kepler-1549 b,2,Warm,Neptunian
+Kepler-155 b,0,Hot,Superterran
+Kepler-155 c,0,Hot,Superterran
+Kepler-1550 b,0,Hot,Neptunian
+Kepler-1551 b,0,Hot,Neptunian
+Kepler-1552 b,2,Warm,Superterran
+Kepler-1553 b,0,Hot,Terran
+Kepler-1554 b,1,Warm,Neptunian
+Kepler-1555 b,0,Hot,Superterran
+Kepler-1556 b,0,Hot,Superterran
+Kepler-1557 b,0,Hot,Superterran
+Kepler-1558 b,0,Hot,Subterran
+Kepler-1559 b,0,Hot,Subterran
+Kepler-156 b,0,Hot,Superterran
+Kepler-156 c,0,Hot,Neptunian
+Kepler-1560 b,0,Hot,Terran
+Kepler-1561 b,0,Hot,Terran
+Kepler-1562 b,0,Hot,Neptunian
+Kepler-1563 b,0,Hot,Subterran
+Kepler-1564 b,0,Hot,Terran
+Kepler-1565 b,0,Hot,Terran
+Kepler-1566 b,0,Hot,Subterran
+Kepler-1567 b,0,Hot,Neptunian
+Kepler-1568 b,0,Hot,Terran
+Kepler-1569 b,0,Hot,Superterran
+Kepler-157 b,0,Hot,Terran
+Kepler-157 c,0,Hot,Superterran
+Kepler-157 d,0,,Terran
+Kepler-1570 b,0,Hot,Terran
+Kepler-1571 b,0,Hot,Superterran
+Kepler-1572 b,0,Hot,Terran
+Kepler-1573 b,0,Hot,Terran
+Kepler-1574 b,0,Hot,Terran
+Kepler-1575 b,0,Hot,Terran
+Kepler-1576 b,0,Hot,Terran
+Kepler-1577 b,0,Hot,Terran
+Kepler-1578 b,0,Hot,Terran
+Kepler-1579 b,0,Hot,Terran
+Kepler-158 b,0,Hot,Superterran
+Kepler-158 c,0,Hot,Superterran
+Kepler-1580 b,0,Hot,Superterran
+Kepler-1581 b,0,Hot,Subterran
+Kepler-1582 b,0,Hot,Terran
+Kepler-1583 b,0,Hot,Subterran
+Kepler-1584 b,0,Hot,Superterran
+Kepler-1585 b,0,Hot,Superterran
+Kepler-1586 b,0,Hot,Superterran
+Kepler-1587 b,0,Hot,Terran
+Kepler-1588 b,0,Hot,Subterran
+Kepler-1589 b,0,Hot,Terran
+Kepler-159 b,0,Hot,Superterran
+Kepler-159 c,0,Hot,Neptunian
+Kepler-1590 b,0,Hot,Terran
+Kepler-1591 b,0,Hot,Terran
+Kepler-1592 b,0,Hot,Superterran
+Kepler-1593 b,2,Warm,Neptunian
+Kepler-1594 b,0,Hot,Terran
+Kepler-1595 b,0,Hot,Terran
+Kepler-1596 b,0,Hot,Superterran
+Kepler-1597 b,0,Hot,Terran
+Kepler-1598 b,0,Hot,Terran
+Kepler-1599 b,0,Hot,Superterran
+Kepler-16 b,2,Warm,Jovian
+Kepler-160 b,0,Hot,Superterran
+Kepler-160 c,0,Hot,Neptunian
+Kepler-1600 b,2,Warm,Neptunian
+Kepler-1601 b,0,Hot,Terran
+Kepler-1602 b,0,Hot,Terran
+Kepler-1603 b,0,Hot,Terran
+Kepler-1604 b,0,Hot,Terran
+Kepler-1605 b,0,Hot,Terran
+Kepler-1606 b,1,Warm,Superterran
+Kepler-1607 b,0,Hot,Terran
+Kepler-1608 b,0,Hot,Superterran
+Kepler-1609 b,0,Hot,Superterran
+Kepler-161 b,0,Hot,Superterran
+Kepler-161 c,0,Hot,Superterran
+Kepler-1610 b,0,Hot,Superterran
+Kepler-1611 b,0,Hot,Terran
+Kepler-1612 b,0,Hot,Terran
+Kepler-1613 b,0,Hot,Superterran
+Kepler-1614 b,0,Hot,Terran
+Kepler-1615 b,0,Hot,Superterran
+Kepler-1616 b,0,Hot,Terran
+Kepler-1617 b,0,Hot,Terran
+Kepler-1618 b,0,Hot,Terran
+Kepler-1619 b,0,Hot,Subterran
+Kepler-162 b,0,Hot,Terran
+Kepler-162 c,0,Hot,Neptunian
+Kepler-1620 b,0,Hot,Superterran
+Kepler-1621 b,0,Hot,Superterran
+Kepler-1622 b,0,Hot,Terran
+Kepler-1623 b,0,Hot,Terran
+Kepler-1624 b,0,Hot,Neptunian
+Kepler-1625 b,2,Warm,Jovian
+Kepler-1626 b,0,Hot,Superterran
+Kepler-1627 b,0,Hot,Neptunian
+Kepler-1628 b,2,Warm,Jovian
+Kepler-1629 b,0,Hot,Subterran
+Kepler-163 b,0,Hot,Terran
+Kepler-163 c,0,Hot,Superterran
+Kepler-1630 b,0,Cold,Superterran
+Kepler-1631 b,0,Hot,Terran
+Kepler-1632 b,1,Warm,Superterran
+Kepler-1633 b,0,Hot,Superterran
+Kepler-1634 b,2,Warm,Neptunian
+Kepler-1635 b,2,Warm,Neptunian
+Kepler-1636 b,2,Warm,Neptunian
+Kepler-1637 b,0,Hot,Terran
+Kepler-1638 b,1,Warm,Superterran
+Kepler-1639 b,0,Hot,Neptunian
+Kepler-164 b,0,Hot,Terran
+Kepler-164 c,0,Hot,Neptunian
+Kepler-164 d,0,Hot,Superterran
+Kepler-1640 b,0,Hot,Neptunian
+Kepler-1641 b,0,Hot,Neptunian
+Kepler-1641 c,0,Hot,Neptunian
+Kepler-1642 b,0,Hot,Neptunian
+Kepler-1642 c,0,Hot,Neptunian
+Kepler-1643 b,0,Hot,Superterran
+Kepler-1644 b,0,Hot,Superterran
+Kepler-1645 b,0,Hot,Superterran
+Kepler-1646 b,0,Hot,Terran
+Kepler-1647 b,2,Warm,Jovian
+Kepler-1649 b,0,Hot,Terran
+Kepler-165 b,0,Hot,Superterran
+Kepler-165 c,0,Hot,Superterran
+Kepler-1650 b,0,Hot,Terran
+Kepler-1651 b,0,Hot,Superterran
+Kepler-1652 b,2,Warm,Superterran
+Kepler-1653 b,2,Warm,Superterran
+Kepler-1654 b,0,Cold,Jovian
+Kepler-1655 b,0,Hot,Superterran
+Kepler-1656 b,0,Hot,Neptunian
+Kepler-1658 b,0,Hot,Jovian
+Kepler-166 b,0,Hot,Superterran
+Kepler-166 c,0,Hot,Superterran
+Kepler-166 d,0,,Superterran
+Kepler-167 b,0,Hot,Superterran
+Kepler-167 c,0,Hot,Superterran
+Kepler-167 d,0,Hot,Terran
+Kepler-167 e,0,Cold,Jovian
+Kepler-168 b,0,Hot,Terran
+Kepler-168 c,0,Hot,Neptunian
+Kepler-169 b,0,Hot,Terran
+Kepler-169 c,0,Hot,Terran
+Kepler-169 d,0,Hot,Terran
+Kepler-169 e,0,Hot,Superterran
+Kepler-169 f,0,Hot,Neptunian
+Kepler-17 b,0,Hot,Jovian
+Kepler-170 b,0,Hot,Neptunian
+Kepler-170 c,0,Hot,Neptunian
+Kepler-171 b,0,Hot,Superterran
+Kepler-171 c,0,Hot,Neptunian
+Kepler-171 d,0,Hot,Superterran
+Kepler-172 b,0,Hot,Superterran
+Kepler-172 c,0,Hot,Neptunian
+Kepler-172 d,0,Hot,Superterran
+Kepler-172 e,0,Hot,Neptunian
+Kepler-173 b,0,Hot,Terran
+Kepler-173 c,0,Hot,Superterran
+Kepler-174 b,0,Hot,Superterran
+Kepler-174 c,0,Hot,Terran
+Kepler-174 d,2,Warm,Superterran
+Kepler-175 b,0,Hot,Neptunian
+Kepler-175 c,0,Hot,Neptunian
+Kepler-176 b,0,Hot,Terran
+Kepler-176 c,0,Hot,Neptunian
+Kepler-176 d,0,Hot,Neptunian
+Kepler-176 e,0,,Terran
+Kepler-177 b,0,,Neptunian
+Kepler-177 c,0,,Jovian
+Kepler-178 b,0,Hot,Neptunian
+Kepler-178 c,0,Hot,Neptunian
+Kepler-178 d,0,Hot,Neptunian
+Kepler-179 b,0,Hot,Superterran
+Kepler-179 c,0,Hot,Superterran
+Kepler-18 b,0,Hot,Superterran
+Kepler-18 c,0,Hot,Neptunian
+Kepler-18 d,0,Hot,Jovian
+Kepler-180 b,0,Hot,Superterran
+Kepler-180 c,0,Hot,Neptunian
+Kepler-181 b,0,Hot,Terran
+Kepler-181 c,0,Hot,Superterran
+Kepler-182 b,0,Hot,Neptunian
+Kepler-182 c,0,Hot,Neptunian
+Kepler-183 b,0,Hot,Superterran
+Kepler-183 c,0,Hot,Superterran
+Kepler-184 b,0,Hot,Superterran
+Kepler-184 c,0,Hot,Superterran
+Kepler-184 d,0,Hot,Superterran
+Kepler-185 b,0,Hot,Terran
+Kepler-185 c,0,Hot,Superterran
+Kepler-186 b,0,Hot,Terran
+Kepler-186 c,0,Hot,Terran
+Kepler-186 d,0,Hot,Terran
+Kepler-186 e,0,Hot,Terran
+Kepler-186 f,2,Warm,Terran
+Kepler-187 b,0,Hot,Terran
+Kepler-187 c,0,Hot,Neptunian
+Kepler-188 b,0,Hot,Superterran
+Kepler-188 c,0,Hot,Neptunian
+Kepler-189 b,0,Hot,Terran
+Kepler-189 c,0,Hot,Superterran
+Kepler-19 b,0,Hot,Superterran
+Kepler-19 c,0,Hot,Neptunian
+Kepler-19 d,0,Hot,Neptunian
+Kepler-190 b,0,Hot,Superterran
+Kepler-190 c,0,Hot,Terran
+Kepler-191 b,0,Hot,Terran
+Kepler-191 c,0,Hot,Superterran
+Kepler-191 d,0,,Superterran
+Kepler-192 b,0,Hot,Neptunian
+Kepler-192 c,0,Hot,Neptunian
+Kepler-192 d,0,,Terran
+Kepler-193 b,0,Hot,Superterran
+Kepler-193 c,0,Hot,Neptunian
+Kepler-194 b,0,Hot,Superterran
+Kepler-194 c,0,Hot,Neptunian
+Kepler-194 d,0,Hot,Superterran
+Kepler-195 b,0,Hot,Superterran
+Kepler-195 c,0,Hot,Superterran
+Kepler-196 b,0,Hot,Superterran
+Kepler-196 c,0,Hot,Superterran
+Kepler-197 b,0,Hot,Terran
+Kepler-197 c,0,Hot,Terran
+Kepler-197 d,0,Hot,Terran
+Kepler-197 e,0,Hot,Terran
+Kepler-198 b,0,Hot,Neptunian
+Kepler-198 c,0,Hot,Superterran
+Kepler-198 d,0,,Superterran
+Kepler-199 b,0,Hot,Neptunian
+Kepler-199 c,0,Hot,Neptunian
+Kepler-20 b,0,Hot,Superterran
+Kepler-20 c,0,Hot,Neptunian
+Kepler-20 d,0,Hot,Neptunian
+Kepler-20 e,0,Hot,Terran
+Kepler-20 f,0,Hot,Terran
+Kepler-20 g,0,Hot,Neptunian
+Kepler-200 b,0,Hot,Superterran
+Kepler-200 c,0,Hot,Superterran
+Kepler-201 b,0,Hot,Superterran
+Kepler-201 c,0,Hot,Neptunian
+Kepler-202 b,0,Hot,Superterran
+Kepler-202 c,0,Hot,Superterran
+Kepler-203 b,0,Hot,Neptunian
+Kepler-203 c,0,Hot,Superterran
+Kepler-203 d,0,Hot,Terran
+Kepler-204 b,0,Hot,Neptunian
+Kepler-204 c,0,Hot,Superterran
+Kepler-205 b,0,Hot,Superterran
+Kepler-205 c,0,Hot,Superterran
+Kepler-206 b,0,Hot,Terran
+Kepler-206 c,0,Hot,Superterran
+Kepler-206 d,0,Hot,Terran
+Kepler-207 b,0,Hot,Superterran
+Kepler-207 c,0,Hot,Superterran
+Kepler-207 d,0,Hot,Neptunian
+Kepler-208 b,0,Hot,Superterran
+Kepler-208 c,0,Hot,Terran
+Kepler-208 d,0,Hot,Terran
+Kepler-208 e,0,Hot,Terran
+Kepler-209 b,0,Hot,Superterran
+Kepler-209 c,0,Hot,Neptunian
+Kepler-21 b,0,Hot,Superterran
+Kepler-210 b,0,Hot,Neptunian
+Kepler-210 c,0,Hot,Neptunian
+Kepler-211 b,0,Hot,Terran
+Kepler-211 c,0,Hot,Terran
+Kepler-212 b,0,Hot,Terran
+Kepler-212 c,0,Hot,Neptunian
+Kepler-213 b,0,Hot,Superterran
+Kepler-213 c,0,Hot,Superterran
+Kepler-214 b,0,Hot,Neptunian
+Kepler-214 c,0,Hot,Superterran
+Kepler-215 b,0,Hot,Superterran
+Kepler-215 c,0,Hot,Superterran
+Kepler-215 d,0,Hot,Superterran
+Kepler-215 e,0,Hot,Superterran
+Kepler-216 b,0,Hot,Superterran
+Kepler-216 c,0,Hot,Neptunian
+Kepler-217 b,0,Hot,Superterran
+Kepler-217 c,0,Hot,Superterran
+Kepler-217 d,0,,Terran
+Kepler-218 b,0,Hot,Terran
+Kepler-218 c,0,Hot,Neptunian
+Kepler-218 d,0,,Neptunian
+Kepler-219 b,0,Hot,Neptunian
+Kepler-219 c,0,Hot,Neptunian
+Kepler-219 d,0,Hot,Neptunian
+Kepler-22 b,2,Warm,Superterran
+Kepler-220 b,0,Hot,Terran
+Kepler-220 c,0,Hot,Superterran
+Kepler-220 d,0,Hot,Terran
+Kepler-220 e,0,Hot,Terran
+Kepler-221 b,0,Hot,Superterran
+Kepler-221 c,0,Hot,Neptunian
+Kepler-221 d,0,Hot,Neptunian
+Kepler-221 e,0,Hot,Neptunian
+Kepler-222 b,0,Hot,Neptunian
+Kepler-222 c,0,Hot,Neptunian
+Kepler-222 d,0,Hot,Neptunian
+Kepler-223 b,0,,Neptunian
+Kepler-223 c,0,,Neptunian
+Kepler-223 d,0,,Neptunian
+Kepler-223 e,0,,Neptunian
+Kepler-224 b,0,Hot,Terran
+Kepler-224 c,0,Hot,Neptunian
+Kepler-224 d,0,Hot,Superterran
+Kepler-224 e,0,Hot,Superterran
+Kepler-225 b,0,Hot,Terran
+Kepler-225 c,0,Hot,Superterran
+Kepler-226 b,0,Hot,Superterran
+Kepler-226 c,0,Hot,Superterran
+Kepler-226 d,0,Hot,Terran
+Kepler-227 b,0,Hot,Neptunian
+Kepler-227 c,0,Hot,Neptunian
+Kepler-228 b,0,Hot,Superterran
+Kepler-228 c,0,Hot,Neptunian
+Kepler-228 d,0,Hot,Neptunian
+Kepler-229 b,0,Hot,Superterran
+Kepler-229 c,0,Hot,Neptunian
+Kepler-229 d,0,Hot,Neptunian
+Kepler-23 b,0,Hot,Jovian
+Kepler-23 c,0,Hot,Jovian
+Kepler-23 d,0,Hot,Superterran
+Kepler-230 b,0,Hot,Neptunian
+Kepler-230 c,0,Hot,Superterran
+Kepler-231 b,0,Hot,Superterran
+Kepler-231 c,0,Hot,Superterran
+Kepler-232 b,0,Hot,Neptunian
+Kepler-232 c,0,Hot,Neptunian
+Kepler-233 b,0,Hot,Superterran
+Kepler-233 c,0,Hot,Neptunian
+Kepler-234 b,0,Hot,Neptunian
+Kepler-234 c,0,Hot,Neptunian
+Kepler-235 b,0,Hot,Superterran
+Kepler-235 c,0,Hot,Terran
+Kepler-235 d,0,Hot,Superterran
+Kepler-235 e,0,Hot,Superterran
+Kepler-236 b,0,Hot,Superterran
+Kepler-236 c,0,Hot,Superterran
+Kepler-237 b,0,Hot,Terran
+Kepler-237 c,0,Hot,Superterran
+Kepler-238 b,0,Hot,Superterran
+Kepler-238 c,0,Hot,Superterran
+Kepler-238 d,0,Hot,Neptunian
+Kepler-238 e,0,,Jovian
+Kepler-238 f,0,,Neptunian
+Kepler-239 b,0,Hot,Superterran
+Kepler-239 c,0,Hot,Neptunian
+Kepler-24 b,0,Hot,Jovian
+Kepler-24 c,0,Hot,Jovian
+Kepler-24 d,0,Hot,Superterran
+Kepler-24 e,0,Hot,Neptunian
+Kepler-240 b,0,Hot,Terran
+Kepler-240 c,0,Hot,Superterran
+Kepler-241 b,0,Hot,Superterran
+Kepler-241 c,0,Hot,Neptunian
+Kepler-242 b,0,Hot,Neptunian
+Kepler-242 c,0,Hot,Superterran
+Kepler-243 b,0,Hot,Superterran
+Kepler-243 c,0,Hot,Superterran
+Kepler-244 b,0,Hot,Neptunian
+Kepler-244 c,0,Hot,Superterran
+Kepler-244 d,0,Hot,Superterran
+Kepler-245 b,0,Hot,Neptunian
+Kepler-245 c,0,Hot,Superterran
+Kepler-245 d,0,Hot,Neptunian
+Kepler-245 e,0,,Superterran
+Kepler-246 b,0,Hot,Superterran
+Kepler-246 c,0,Hot,Superterran
+Kepler-247 b,0,Hot,Superterran
+Kepler-247 c,0,Hot,Neptunian
+Kepler-247 d,0,Hot,Neptunian
+Kepler-248 b,0,Hot,Neptunian
+Kepler-248 c,0,Hot,Neptunian
+Kepler-249 b,0,Hot,Terran
+Kepler-249 c,0,Hot,Superterran
+Kepler-249 d,0,Hot,Superterran
+Kepler-25 b,0,Hot,Neptunian
+Kepler-25 c,0,Hot,Neptunian
+Kepler-25 d,0,Hot,Jovian
+Kepler-250 b,0,Hot,Terran
+Kepler-250 c,0,Hot,Superterran
+Kepler-250 d,0,Hot,Superterran
+Kepler-251 b,0,Hot,Terran
+Kepler-251 c,0,Hot,Neptunian
+Kepler-251 d,0,Hot,Neptunian
+Kepler-251 e,0,Hot,Neptunian
+Kepler-252 b,0,Hot,Terran
+Kepler-252 c,0,Hot,Superterran
+Kepler-253 b,0,Hot,Superterran
+Kepler-253 c,0,Hot,Neptunian
+Kepler-253 d,0,Hot,Neptunian
+Kepler-254 b,0,Hot,Neptunian
+Kepler-254 c,0,Hot,Superterran
+Kepler-254 d,0,Hot,Superterran
+Kepler-255 b,0,Hot,Superterran
+Kepler-255 c,0,Hot,Neptunian
+Kepler-255 d,0,,Terran
+Kepler-256 b,0,Hot,Superterran
+Kepler-256 c,0,Hot,Superterran
+Kepler-256 d,0,Hot,Superterran
+Kepler-256 e,0,Hot,Superterran
+Kepler-257 b,0,Hot,Neptunian
+Kepler-257 c,0,Hot,Neptunian
+Kepler-257 d,0,Hot,Neptunian
+Kepler-258 b,0,Hot,Neptunian
+Kepler-258 c,0,Hot,Neptunian
+Kepler-259 b,0,Hot,Neptunian
+Kepler-259 c,0,Hot,Neptunian
+Kepler-26 b,0,Hot,Neptunian
+Kepler-26 c,0,Hot,Neptunian
+Kepler-26 d,0,Hot,Terran
+Kepler-26 e,1,Warm,Superterran
+Kepler-260 b,0,Hot,Superterran
+Kepler-260 c,0,Hot,Superterran
+Kepler-261 b,0,Hot,Superterran
+Kepler-261 c,0,Hot,Superterran
+Kepler-262 b,0,Hot,Terran
+Kepler-262 c,0,Hot,Superterran
+Kepler-263 b,0,Hot,Neptunian
+Kepler-263 c,0,Hot,Superterran
+Kepler-264 b,0,Hot,Neptunian
+Kepler-264 c,0,Hot,Neptunian
+Kepler-265 b,0,Hot,Superterran
+Kepler-265 c,0,Hot,Neptunian
+Kepler-265 d,0,Hot,Superterran
+Kepler-265 e,0,Hot,Neptunian
+Kepler-266 b,0,Hot,Superterran
+Kepler-266 c,0,Hot,Neptunian
+Kepler-267 b,0,Hot,Superterran
+Kepler-267 c,0,Hot,Superterran
+Kepler-267 d,0,Hot,Superterran
+Kepler-268 b,0,Hot,Neptunian
+Kepler-268 c,0,Hot,Neptunian
+Kepler-269 b,0,Hot,Superterran
+Kepler-269 c,0,Hot,Superterran
+Kepler-27 b,0,Hot,Jovian
+Kepler-27 c,0,Hot,Jovian
+Kepler-270 b,0,Hot,Superterran
+Kepler-270 c,0,Hot,Superterran
+Kepler-271 b,0,Hot,Terran
+Kepler-271 c,0,Hot,Terran
+Kepler-271 d,0,Hot,Subterran
+Kepler-272 b,0,Hot,Terran
+Kepler-272 c,0,Hot,Superterran
+Kepler-272 d,0,Hot,Superterran
+Kepler-273 b,0,Hot,Superterran
+Kepler-273 c,0,Hot,Superterran
+Kepler-274 b,0,Hot,Superterran
+Kepler-274 c,0,Hot,Superterran
+Kepler-275 b,0,Hot,Superterran
+Kepler-275 c,0,Hot,Neptunian
+Kepler-275 d,0,Hot,Neptunian
+Kepler-276 b,0,Hot,Neptunian
+Kepler-276 c,0,,Neptunian
+Kepler-276 d,0,,Neptunian
+Kepler-277 b,0,,Jovian
+Kepler-277 c,0,,Jovian
+Kepler-278 b,0,Hot,Neptunian
+Kepler-278 c,0,Hot,Neptunian
+Kepler-279 b,0,Hot,Neptunian
+Kepler-279 c,0,,Neptunian
+Kepler-279 d,0,,Neptunian
+Kepler-28 b,0,Hot,Jovian
+Kepler-28 c,0,Hot,Jovian
+Kepler-280 b,0,Hot,Terran
+Kepler-280 c,0,Hot,Superterran
+Kepler-281 b,0,Hot,Neptunian
+Kepler-281 c,0,Hot,Neptunian
+Kepler-282 b,0,Hot,Terran
+Kepler-282 c,0,Hot,Terran
+Kepler-282 d,0,,Jovian
+Kepler-282 e,0,,Jovian
+Kepler-283 b,0,Hot,Superterran
+Kepler-283 c,2,Warm,Superterran
+Kepler-284 b,0,Hot,Superterran
+Kepler-284 c,0,Hot,Neptunian
+Kepler-285 b,0,Hot,Terran
+Kepler-285 c,0,Hot,Terran
+Kepler-286 b,0,Hot,Terran
+Kepler-286 c,0,Hot,Terran
+Kepler-286 d,0,Hot,Terran
+Kepler-286 e,0,Hot,Superterran
+Kepler-287 b,0,Hot,Superterran
+Kepler-287 c,0,Hot,Neptunian
+Kepler-288 b,0,Hot,Superterran
+Kepler-288 c,0,Hot,Neptunian
+Kepler-288 d,0,Hot,Neptunian
+Kepler-289 b,0,Hot,Superterran
+Kepler-289 c,0,Hot,Jovian
+Kepler-289 d,0,Hot,Neptunian
+Kepler-29 b,0,Hot,Neptunian
+Kepler-29 c,0,Hot,Neptunian
+Kepler-290 b,0,Hot,Superterran
+Kepler-290 c,0,Hot,Neptunian
+Kepler-291 b,0,Hot,Superterran
+Kepler-291 c,0,Hot,Superterran
+Kepler-292 b,0,Hot,Terran
+Kepler-292 c,0,Hot,Terran
+Kepler-292 d,0,Hot,Superterran
+Kepler-292 e,0,Hot,Neptunian
+Kepler-292 f,0,Hot,Superterran
+Kepler-293 b,0,Hot,Neptunian
+Kepler-293 c,0,Hot,Neptunian
+Kepler-294 b,0,Hot,Superterran
+Kepler-294 c,0,Hot,Neptunian
+Kepler-295 b,0,Hot,Terran
+Kepler-295 c,0,Hot,Terran
+Kepler-295 d,0,Hot,Terran
+Kepler-296 b,0,Hot,Superterran
+Kepler-296 c,0,Hot,Superterran
+Kepler-296 d,0,Hot,Superterran
+Kepler-296 e,1,Warm,Superterran
+Kepler-296 f,2,Warm,Superterran
+Kepler-297 b,0,Hot,Neptunian
+Kepler-297 c,0,Hot,Jovian
+Kepler-298 b,0,Hot,Superterran
+Kepler-298 c,0,Hot,Superterran
+Kepler-298 d,1,Warm,Superterran
+Kepler-299 b,0,Hot,Terran
+Kepler-299 c,0,Hot,Neptunian
+Kepler-299 d,0,Hot,Superterran
+Kepler-299 e,0,Hot,Superterran
+Kepler-30 b,0,Hot,Neptunian
+Kepler-30 c,0,Hot,Jovian
+Kepler-30 d,0,Hot,Jovian
+Kepler-300 b,0,Hot,Superterran
+Kepler-300 c,0,Hot,Superterran
+Kepler-301 b,0,Hot,Terran
+Kepler-301 c,0,Hot,Terran
+Kepler-301 d,0,Hot,Superterran
+Kepler-302 b,0,Hot,Neptunian
+Kepler-302 c,0,Hot,Jovian
+Kepler-303 b,0,Hot,Terran
+Kepler-303 c,0,Hot,Terran
+Kepler-304 b,0,Hot,Neptunian
+Kepler-304 c,0,Hot,Superterran
+Kepler-304 d,0,Hot,Neptunian
+Kepler-304 e,0,,Terran
+Kepler-305 b,0,,Neptunian
+Kepler-305 c,0,,Neptunian
+Kepler-305 d,0,Hot,Neptunian
+Kepler-306 b,0,Hot,Superterran
+Kepler-306 c,0,Hot,Superterran
+Kepler-306 d,0,Hot,Superterran
+Kepler-306 e,0,Hot,Superterran
+Kepler-307 b,0,Hot,Superterran
+Kepler-307 c,0,Hot,Superterran
+Kepler-308 b,0,Hot,Superterran
+Kepler-308 c,0,Hot,Superterran
+Kepler-309 b,0,Hot,Superterran
+Kepler-309 c,1,Warm,Neptunian
+Kepler-31 b,0,Hot,Neptunian
+Kepler-31 c,0,Hot,Jovian
+Kepler-31 d,0,Hot,Jovian
+Kepler-310 b,0,Hot,Terran
+Kepler-310 c,0,Hot,Neptunian
+Kepler-310 d,0,Hot,Superterran
+Kepler-311 b,0,Hot,Superterran
+Kepler-311 c,0,Hot,Terran
+Kepler-312 b,0,Hot,Terran
+Kepler-312 c,0,Hot,Neptunian
+Kepler-313 b,0,Hot,Neptunian
+Kepler-313 c,0,Hot,Neptunian
+Kepler-314 b,0,Hot,Terran
+Kepler-314 c,0,Hot,Neptunian
+Kepler-315 b,0,Hot,Neptunian
+Kepler-315 c,1,Warm,Neptunian
+Kepler-316 b,0,Hot,Terran
+Kepler-316 c,0,Hot,Terran
+Kepler-317 b,0,Hot,Superterran
+Kepler-317 c,0,Hot,Superterran
+Kepler-318 b,0,Hot,Neptunian
+Kepler-318 c,0,Hot,Neptunian
+Kepler-319 b,0,Hot,Superterran
+Kepler-319 c,0,Hot,Neptunian
+Kepler-319 d,0,Hot,Superterran
+Kepler-32 b,0,Hot,Jovian
+Kepler-32 c,0,Hot,Jovian
+Kepler-32 d,0,Hot,Neptunian
+Kepler-32 e,0,Hot,Superterran
+Kepler-32 f,0,Hot,Terran
+Kepler-320 b,0,Hot,Terran
+Kepler-320 c,0,Hot,Terran
+Kepler-321 b,0,Hot,Superterran
+Kepler-321 c,0,Hot,Superterran
+Kepler-322 b,0,Hot,Terran
+Kepler-322 c,0,Hot,Superterran
+Kepler-323 b,0,Hot,Terran
+Kepler-323 c,0,Hot,Superterran
+Kepler-324 b,0,Hot,Terran
+Kepler-324 c,0,Hot,Neptunian
+Kepler-325 b,0,Hot,Neptunian
+Kepler-325 c,0,Hot,Neptunian
+Kepler-325 d,0,Hot,Neptunian
+Kepler-326 b,0,Hot,Superterran
+Kepler-326 c,0,Hot,Terran
+Kepler-326 d,0,Hot,Terran
+Kepler-327 b,0,Hot,Terran
+Kepler-327 c,0,Hot,Terran
+Kepler-327 d,0,Hot,Superterran
+Kepler-328 b,0,Hot,Neptunian
+Kepler-328 c,0,Hot,Neptunian
+Kepler-329 b,0,Hot,Terran
+Kepler-329 c,0,Hot,Superterran
+Kepler-33 b,0,Hot,Superterran
+Kepler-33 c,0,Hot,Neptunian
+Kepler-33 d,0,Hot,Neptunian
+Kepler-33 e,0,Hot,Neptunian
+Kepler-33 f,0,Hot,Neptunian
+Kepler-330 b,0,Hot,Terran
+Kepler-330 c,0,Hot,Superterran
+Kepler-331 b,0,Hot,Superterran
+Kepler-331 c,0,Hot,Superterran
+Kepler-331 d,0,Hot,Superterran
+Kepler-332 b,0,Hot,Terran
+Kepler-332 c,0,Hot,Terran
+Kepler-332 d,0,Hot,Terran
+Kepler-333 b,0,Hot,Terran
+Kepler-333 c,0,Hot,Terran
+Kepler-334 b,0,Hot,Terran
+Kepler-334 c,0,Hot,Terran
+Kepler-334 d,0,Hot,Terran
+Kepler-335 b,0,Hot,Neptunian
+Kepler-335 c,0,Hot,Neptunian
+Kepler-336 b,0,Hot,Terran
+Kepler-336 c,0,Hot,Superterran
+Kepler-336 d,0,Hot,Superterran
+Kepler-337 b,0,Hot,Superterran
+Kepler-337 c,0,Hot,Superterran
+Kepler-338 b,0,Hot,Superterran
+Kepler-338 c,0,Hot,Superterran
+Kepler-338 d,0,Hot,Neptunian
+Kepler-338 e,0,,Superterran
+Kepler-339 b,0,Hot,Terran
+Kepler-339 c,0,Hot,Terran
+Kepler-339 d,0,Hot,Terran
+Kepler-34 b,1,Warm,Jovian
+Kepler-340 b,0,Hot,Neptunian
+Kepler-340 c,0,Hot,Neptunian
+Kepler-341 b,0,Hot,Terran
+Kepler-341 c,0,Hot,Superterran
+Kepler-341 d,0,Hot,Superterran
+Kepler-341 e,0,Hot,Superterran
+Kepler-342 b,0,Hot,Superterran
+Kepler-342 c,0,Hot,Superterran
+Kepler-342 d,0,Hot,Superterran
+Kepler-342 e,0,,Terran
+Kepler-343 b,0,Hot,Superterran
+Kepler-343 c,0,Hot,Superterran
+Kepler-344 b,0,Hot,Neptunian
+Kepler-344 c,0,Hot,Neptunian
+Kepler-345 b,0,Hot,Subterran
+Kepler-345 c,0,Hot,Terran
+Kepler-346 b,0,Hot,Neptunian
+Kepler-346 c,0,Hot,Neptunian
+Kepler-347 b,0,Hot,Superterran
+Kepler-347 c,0,Hot,Superterran
+Kepler-348 b,0,Hot,Superterran
+Kepler-348 c,0,Hot,Terran
+Kepler-349 b,0,Hot,Superterran
+Kepler-349 c,0,Hot,Superterran
+Kepler-35 b,0,Hot,Jovian
+Kepler-350 b,0,Hot,Superterran
+Kepler-350 c,0,,Neptunian
+Kepler-350 d,0,,Neptunian
+Kepler-351 b,0,Hot,Neptunian
+Kepler-351 c,0,Hot,Neptunian
+Kepler-351 d,0,,Neptunian
+Kepler-352 b,0,Hot,Terran
+Kepler-352 c,0,Hot,Terran
+Kepler-353 b,0,Hot,Terran
+Kepler-353 c,0,Hot,Terran
+Kepler-354 b,0,Hot,Superterran
+Kepler-354 c,0,Hot,Terran
+Kepler-354 d,0,Hot,Terran
+Kepler-355 b,0,Hot,Terran
+Kepler-355 c,0,Hot,Neptunian
+Kepler-356 b,0,Hot,Superterran
+Kepler-356 c,0,Hot,Superterran
+Kepler-357 b,0,Hot,Superterran
+Kepler-357 c,0,Hot,Neptunian
+Kepler-357 d,0,Hot,Neptunian
+Kepler-358 b,0,Hot,Neptunian
+Kepler-358 c,0,Hot,Neptunian
+Kepler-359 b,0,Hot,Neptunian
+Kepler-359 c,0,Hot,Neptunian
+Kepler-359 d,0,Hot,Neptunian
+Kepler-36 b,0,Hot,Terran
+Kepler-36 c,0,Hot,Neptunian
+Kepler-360 b,0,Hot,Superterran
+Kepler-360 c,0,Hot,Superterran
+Kepler-361 b,0,Hot,Terran
+Kepler-361 c,0,Hot,Neptunian
+Kepler-362 b,0,Hot,Terran
+Kepler-362 c,0,Hot,Terran
+Kepler-363 b,0,Hot,Terran
+Kepler-363 c,0,Hot,Superterran
+Kepler-363 d,0,Hot,Superterran
+Kepler-364 b,0,Hot,Superterran
+Kepler-364 c,0,Hot,Superterran
+Kepler-365 b,0,Hot,Superterran
+Kepler-365 c,0,Hot,Superterran
+Kepler-366 b,0,Hot,Terran
+Kepler-366 c,0,Hot,Superterran
+Kepler-367 b,0,Hot,Terran
+Kepler-367 c,0,Hot,Terran
+Kepler-368 b,0,Hot,Neptunian
+Kepler-368 c,0,Hot,Neptunian
+Kepler-369 b,0,Hot,Terran
+Kepler-369 c,0,Hot,Terran
+Kepler-37 b,0,Hot,Terran
+Kepler-37 c,0,Hot,Neptunian
+Kepler-37 d,0,Hot,Neptunian
+Kepler-37 e,0,Hot,
+Kepler-370 b,0,Hot,Superterran
+Kepler-370 c,0,Hot,Superterran
+Kepler-371 b,0,Hot,Superterran
+Kepler-371 c,0,Hot,Superterran
+Kepler-372 b,0,Hot,Terran
+Kepler-372 c,0,Hot,Superterran
+Kepler-372 d,0,Hot,Superterran
+Kepler-373 b,0,Hot,Terran
+Kepler-373 c,0,Hot,Terran
+Kepler-374 b,0,Hot,Terran
+Kepler-374 c,0,Hot,Terran
+Kepler-374 d,0,Hot,Terran
+Kepler-375 b,0,Hot,Terran
+Kepler-375 c,0,Hot,Neptunian
+Kepler-376 b,0,Hot,Terran
+Kepler-376 c,0,Hot,Superterran
+Kepler-377 b,0,Hot,Terran
+Kepler-377 c,0,Hot,Superterran
+Kepler-378 b,0,Hot,Subterran
+Kepler-378 c,0,Hot,Subterran
+Kepler-379 b,0,Hot,Superterran
+Kepler-379 c,0,Hot,Superterran
+Kepler-38 b,0,Hot,Jovian
+Kepler-380 b,0,Hot,Terran
+Kepler-380 c,0,Hot,Terran
+Kepler-381 b,0,Hot,Terran
+Kepler-381 c,0,Hot,Terran
+Kepler-382 b,0,Hot,Terran
+Kepler-382 c,0,Hot,Superterran
+Kepler-383 b,0,Hot,Terran
+Kepler-383 c,0,Hot,Terran
+Kepler-384 b,0,Hot,Terran
+Kepler-384 c,0,Hot,Terran
+Kepler-385 b,0,Hot,Neptunian
+Kepler-385 c,0,Hot,Neptunian
+Kepler-386 b,0,Hot,Terran
+Kepler-386 c,0,Hot,Superterran
+Kepler-387 b,0,Hot,Terran
+Kepler-387 c,0,Hot,Terran
+Kepler-388 b,0,Hot,Terran
+Kepler-388 c,0,Hot,Terran
+Kepler-389 b,0,Hot,Superterran
+Kepler-389 c,0,Hot,Terran
+Kepler-39 b,0,Hot,Jovian
+Kepler-390 b,0,Hot,Terran
+Kepler-390 c,0,Hot,Subterran
+Kepler-391 b,0,Hot,Neptunian
+Kepler-391 c,0,Hot,Neptunian
+Kepler-392 b,0,Hot,Terran
+Kepler-392 c,0,Hot,Terran
+Kepler-393 b,0,Hot,Terran
+Kepler-393 c,0,Hot,Terran
+Kepler-394 b,0,Hot,Superterran
+Kepler-394 c,0,Hot,Superterran
+Kepler-395 b,0,Hot,Terran
+Kepler-395 c,0,Hot,Terran
+Kepler-396 b,0,,Jovian
+Kepler-396 c,0,,Neptunian
+Kepler-397 b,0,Hot,Superterran
+Kepler-397 c,0,Hot,Jovian
+Kepler-398 b,0,Hot,Terran
+Kepler-398 c,0,Hot,Terran
+Kepler-398 d,0,,Terran
+Kepler-399 b,0,Hot,Terran
+Kepler-399 c,0,Hot,Terran
+Kepler-399 d,0,Hot,Superterran
+Kepler-4 b,0,Hot,Neptunian
+Kepler-40 b,0,Hot,Jovian
+Kepler-400 b,0,Hot,Superterran
+Kepler-400 c,0,Hot,Terran
+Kepler-401 b,0,Hot,Superterran
+Kepler-401 c,0,Hot,Superterran
+Kepler-401 d,0,,Superterran
+Kepler-402 b,0,Hot,Terran
+Kepler-402 c,0,Hot,Superterran
+Kepler-402 d,0,Hot,Terran
+Kepler-402 e,0,Hot,Terran
+Kepler-403 b,0,Hot,Terran
+Kepler-403 c,0,Hot,Superterran
+Kepler-403 d,0,,Terran
+Kepler-404 b,0,Hot,Terran
+Kepler-404 c,0,Hot,Superterran
+Kepler-405 b,0,Hot,Superterran
+Kepler-405 c,0,Hot,Neptunian
+Kepler-406 b,0,Hot,Superterran
+Kepler-406 c,0,Hot,Terran
+Kepler-407 b,0,Hot,Terran
+Kepler-407 c,0,Cold,Jovian
+Kepler-408 b,0,Hot,Terran
+Kepler-409 b,0,Hot,Neptunian
+Kepler-41 b,0,Hot,Jovian
+Kepler-410 A b,0,Hot,Neptunian
+Kepler-411 b,0,,Neptunian
+Kepler-411 c,0,,Neptunian
+Kepler-411 d,0,,Neptunian
+Kepler-411 e,0,,Neptunian
+Kepler-412 b,0,Hot,Jovian
+Kepler-413 b,0,Hot,Jovian
+Kepler-414 b,0,,Superterran
+Kepler-414 c,0,,Neptunian
+Kepler-415 b,0,,Jovian
+Kepler-415 c,0,,
+Kepler-416 b,0,,Jovian
+Kepler-416 c,0,,
+Kepler-417 b,0,,Neptunian
+Kepler-417 c,0,,
+Kepler-418 b,0,Hot,Jovian
+Kepler-419 b,0,Hot,Jovian
+Kepler-419 c,1,Warm,Jovian
+Kepler-42 b,0,Hot,Subterran
+Kepler-42 c,0,Hot,Subterran
+Kepler-42 d,0,Hot,Subterran
+Kepler-421 b,0,Cold,Neptunian
+Kepler-422 b,0,Hot,Jovian
+Kepler-423 b,0,Hot,Jovian
+Kepler-424 b,0,Hot,Jovian
+Kepler-424 c,1,Warm,Jovian
+Kepler-425 b,0,Hot,Jovian
+Kepler-426 b,0,Hot,Jovian
+Kepler-427 b,0,Hot,Jovian
+Kepler-428 b,0,Hot,Jovian
+Kepler-43 b,0,Hot,Jovian
+Kepler-430 b,0,Hot,Neptunian
+Kepler-430 c,0,Hot,Superterran
+Kepler-431 b,0,Hot,Subterran
+Kepler-431 c,0,Hot,Subterran
+Kepler-431 d,0,Hot,Terran
+Kepler-432 b,0,Hot,Jovian
+Kepler-432 c,0,Hot,Jovian
+Kepler-433 b,0,Hot,Jovian
+Kepler-434 b,0,Hot,Jovian
+Kepler-435 b,0,Hot,Jovian
+Kepler-436 b,0,Hot,Neptunian
+Kepler-436 c,0,Hot,Superterran
+Kepler-437 b,0,Hot,Superterran
+Kepler-438 b,0,Hot,Terran
+Kepler-439 b,0,Hot,Superterran
+Kepler-44 b,0,Hot,Jovian
+Kepler-440 b,1,Warm,Superterran
+Kepler-441 b,0,Cold,Superterran
+Kepler-442 b,2,Warm,Terran
+Kepler-443 b,2,Warm,Superterran
+Kepler-444 b,0,Hot,Subterran
+Kepler-444 c,0,Hot,Subterran
+Kepler-444 d,0,Hot,Subterran
+Kepler-444 e,0,Hot,Subterran
+Kepler-444 f,0,Hot,Subterran
+Kepler-445 b,0,Hot,Superterran
+Kepler-445 c,0,Hot,Superterran
+Kepler-445 d,0,Hot,Terran
+Kepler-446 b,0,Hot,Terran
+Kepler-446 c,0,Hot,Terran
+Kepler-446 d,0,Hot,Terran
+Kepler-447 b,0,Hot,Jovian
+Kepler-449 b,0,,Superterran
+Kepler-449 c,0,,Neptunian
+Kepler-45 b,0,Hot,Jovian
+Kepler-450 b,0,,Jovian
+Kepler-450 c,0,,Neptunian
+Kepler-450 d,0,,Terran
+Kepler-452 b,2,Warm,Superterran
+Kepler-453 b,2,Warm,Jovian
+Kepler-454 b,0,Hot,Superterran
+Kepler-454 c,2,Warm,Jovian
+Kepler-458 c,0,Hot,Neptunian
+Kepler-46 b,0,Hot,Jovian
+Kepler-46 c,0,Hot,Jovian
+Kepler-46 d,0,Hot,Superterran
+Kepler-460 c,0,Hot,Neptunian
+Kepler-461 b,0,Hot,Neptunian
+Kepler-462 b,0,Hot,Neptunian
+Kepler-463 b,0,Hot,Neptunian
+Kepler-464 b,0,Hot,Neptunian
+Kepler-465 b,0,Hot,Neptunian
+Kepler-466 b,0,Hot,Neptunian
+Kepler-466 c,0,Hot,Terran
+Kepler-467 b,0,Hot,Superterran
+Kepler-468 b,0,Hot,Jovian
+Kepler-47 b,0,,Neptunian
+Kepler-47 c,0,,Neptunian
+Kepler-47 d,0,,Jovian
+Kepler-470 b,0,Hot,Jovian
+Kepler-471 b,0,Hot,Jovian
+Kepler-472 b,0,Hot,Neptunian
+Kepler-473 b,0,Hot,Neptunian
+Kepler-474 b,0,Hot,Neptunian
+Kepler-475 b,0,Hot,Superterran
+Kepler-476 b,0,Hot,Neptunian
+Kepler-477 b,0,Hot,Superterran
+Kepler-478 b,0,Hot,Neptunian
+Kepler-479 b,0,Hot,Superterran
+Kepler-48 b,0,Hot,Superterran
+Kepler-48 c,0,Hot,Neptunian
+Kepler-48 d,0,Hot,Superterran
+Kepler-48 e,0,Cold,Jovian
+Kepler-480 b,0,Hot,Neptunian
+Kepler-481 b,0,Hot,Superterran
+Kepler-482 b,0,Hot,Superterran
+Kepler-483 b,0,Hot,Neptunian
+Kepler-484 b,0,Hot,Superterran
+Kepler-485 b,0,Hot,Jovian
+Kepler-486 b,0,Hot,Jovian
+Kepler-487 b,0,Hot,Jovian
+Kepler-487 c,0,Hot,Neptunian
+Kepler-488 b,0,Hot,Jovian
+Kepler-489 b,0,Hot,Jovian
+Kepler-49 b,0,,Jovian
+Kepler-49 c,0,,Jovian
+Kepler-49 d,0,Hot,Superterran
+Kepler-49 e,0,Hot,Superterran
+Kepler-490 b,0,Hot,Jovian
+Kepler-491 b,0,Hot,Jovian
+Kepler-492 b,0,Hot,Jovian
+Kepler-493 b,0,Hot,Jovian
+Kepler-494 b,0,Hot,Jovian
+Kepler-495 b,0,Hot,Neptunian
+Kepler-496 b,0,Hot,Superterran
+Kepler-497 b,0,Hot,Jovian
+Kepler-498 b,0,Hot,Neptunian
+Kepler-499 b,0,Hot,Superterran
+Kepler-5 b,0,Hot,Jovian
+Kepler-50 b,0,Hot,Superterran
+Kepler-50 c,0,Hot,Superterran
+Kepler-500 b,0,Hot,Neptunian
+Kepler-501 b,0,Hot,Neptunian
+Kepler-502 b,0,Hot,Neptunian
+Kepler-504 b,0,Hot,Superterran
+Kepler-505 b,0,Hot,Neptunian
+Kepler-506 b,0,Hot,Neptunian
+Kepler-507 b,0,Hot,Terran
+Kepler-508 b,0,Hot,Superterran
+Kepler-509 b,0,Hot,Superterran
+Kepler-51 b,0,Hot,Jovian
+Kepler-51 c,0,Hot,Jovian
+Kepler-51 d,0,Hot,Jovian
+Kepler-510 b,0,Hot,Superterran
+Kepler-511 b,0,Hot,Jovian
+Kepler-512 b,0,Hot,Neptunian
+Kepler-513 b,0,Hot,Superterran
+Kepler-514 b,0,Hot,Superterran
+Kepler-515 b,0,Hot,Terran
+Kepler-516 b,0,Hot,Neptunian
+Kepler-517 b,0,Hot,Neptunian
+Kepler-518 b,0,Hot,Superterran
+Kepler-519 b,0,Hot,Superterran
+Kepler-52 b,0,,Jovian
+Kepler-52 c,0,,Jovian
+Kepler-52 d,0,Hot,Superterran
+Kepler-520 b,0,Hot,Superterran
+Kepler-520 c,0,Hot,Terran
+Kepler-521 b,0,Hot,Neptunian
+Kepler-522 b,0,Hot,Jovian
+Kepler-523 b,0,Hot,Superterran
+Kepler-524 b,0,Hot,Superterran
+Kepler-524 c,0,Hot,Terran
+Kepler-525 b,0,Hot,Neptunian
+Kepler-526 b,0,Hot,Superterran
+Kepler-527 b,0,Hot,Neptunian
+Kepler-528 b,0,Hot,Superterran
+Kepler-529 b,0,Hot,Superterran
+Kepler-529 c,0,Hot,Superterran
+Kepler-53 b,0,Hot,Jovian
+Kepler-53 c,0,Hot,Jovian
+Kepler-53 d,0,Hot,Superterran
+Kepler-530 b,0,Hot,Neptunian
+Kepler-531 b,0,Hot,Neptunian
+Kepler-532 b,0,Hot,Neptunian
+Kepler-533 b,0,Hot,Neptunian
+Kepler-534 b,0,Hot,Superterran
+Kepler-535 b,0,Hot,Superterran
+Kepler-536 b,0,Hot,Neptunian
+Kepler-537 b,0,Hot,Terran
+Kepler-538 b,0,Hot,Superterran
+Kepler-539 b,0,Hot,Jovian
+Kepler-539 c,0,Cold,Jovian
+Kepler-54 b,0,,Jovian
+Kepler-54 c,0,,Jovian
+Kepler-54 d,0,Hot,Superterran
+Kepler-540 b,0,Hot,Neptunian
+Kepler-541 b,0,Hot,Neptunian
+Kepler-542 b,0,Hot,Superterran
+Kepler-543 b,0,Hot,Superterran
+Kepler-544 b,0,Hot,Superterran
+Kepler-545 b,0,Hot,Neptunian
+Kepler-546 b,0,Hot,Jovian
+Kepler-547 b,0,Hot,Neptunian
+Kepler-548 b,0,Hot,Jovian
+Kepler-549 b,0,Hot,Neptunian
+Kepler-549 c,0,Hot,Neptunian
+Kepler-55 b,0,,Jovian
+Kepler-55 c,0,,Jovian
+Kepler-55 d,0,Hot,Superterran
+Kepler-55 e,0,Hot,Superterran
+Kepler-55 f,0,Hot,Superterran
+Kepler-550 b,0,Hot,Neptunian
+Kepler-551 b,0,Hot,Neptunian
+Kepler-552 b,0,Hot,Neptunian
+Kepler-553 b,0,Hot,Neptunian
+Kepler-553 c,2,Warm,Jovian
+Kepler-554 b,0,Hot,Neptunian
+Kepler-555 b,0,Hot,Neptunian
+Kepler-556 b,0,Hot,Superterran
+Kepler-557 b,0,Hot,Neptunian
+Kepler-558 b,0,Hot,Superterran
+Kepler-559 b,0,Hot,Neptunian
+Kepler-56 b,0,Hot,Jovian
+Kepler-56 c,0,Hot,Jovian
+Kepler-56 d,0,Hot,Jovian
+Kepler-560 b,0,Hot,Superterran
+Kepler-561 b,0,Hot,Jovian
+Kepler-561 c,0,Hot,Neptunian
+Kepler-562 b,0,Hot,Neptunian
+Kepler-563 b,0,Hot,Neptunian
+Kepler-564 b,0,Hot,Neptunian
+Kepler-565 b,0,Hot,Neptunian
+Kepler-566 b,0,Hot,Superterran
+Kepler-567 b,0,Hot,Superterran
+Kepler-568 b,0,Hot,Superterran
+Kepler-569 b,0,Hot,Neptunian
+Kepler-57 b,0,Hot,Jovian
+Kepler-57 c,0,Hot,Jovian
+Kepler-570 b,0,Hot,Superterran
+Kepler-571 b,0,Hot,Neptunian
+Kepler-572 b,0,Hot,Neptunian
+Kepler-573 b,0,Hot,Neptunian
+Kepler-574 b,0,Hot,Superterran
+Kepler-575 b,0,Hot,Superterran
+Kepler-576 b,0,Hot,Neptunian
+Kepler-577 b,0,Hot,Neptunian
+Kepler-578 b,0,Hot,Superterran
+Kepler-579 b,0,Hot,Superterran
+Kepler-58 b,0,,Jovian
+Kepler-58 c,0,,Jovian
+Kepler-58 d,0,Hot,Neptunian
+Kepler-580 b,0,Hot,Neptunian
+Kepler-581 b,0,Hot,Neptunian
+Kepler-582 b,0,Hot,Neptunian
+Kepler-583 b,0,Hot,Superterran
+Kepler-584 b,0,Hot,Neptunian
+Kepler-585 b,0,Hot,Neptunian
+Kepler-586 b,0,Hot,Neptunian
+Kepler-587 b,0,Hot,Superterran
+Kepler-588 b,0,Hot,Neptunian
+Kepler-589 b,0,Hot,Superterran
+Kepler-59 b,0,Hot,Jovian
+Kepler-59 c,0,Hot,Jovian
+Kepler-590 b,0,Hot,Neptunian
+Kepler-591 b,0,Hot,Neptunian
+Kepler-592 b,0,Hot,Superterran
+Kepler-593 b,0,Hot,Neptunian
+Kepler-594 b,0,Hot,Superterran
+Kepler-595 b,0,Hot,Neptunian
+Kepler-596 b,0,Hot,Neptunian
+Kepler-597 b,0,Hot,Superterran
+Kepler-598 b,0,Hot,Superterran
+Kepler-599 b,0,Hot,Neptunian
+Kepler-6 b,0,Hot,Jovian
+Kepler-60 b,0,Hot,Superterran
+Kepler-60 c,0,Hot,Superterran
+Kepler-60 d,0,Hot,Superterran
+Kepler-600 b,0,Hot,Neptunian
+Kepler-601 b,0,Hot,Superterran
+Kepler-602 b,0,Hot,Superterran
+Kepler-603 b,0,Hot,Neptunian
+Kepler-603 c,0,Hot,Jovian
+Kepler-603 d,0,Hot,Terran
+Kepler-604 b,0,Hot,Neptunian
+Kepler-605 b,0,Hot,Terran
+Kepler-605 c,0,Hot,Terran
+Kepler-606 b,0,Hot,Neptunian
+Kepler-607 b,0,Hot,Terran
+Kepler-608 b,0,Hot,Neptunian
+Kepler-609 b,0,Hot,Neptunian
+Kepler-61 b,1,Warm,Superterran
+Kepler-610 b,0,Hot,Neptunian
+Kepler-610 c,0,Hot,Neptunian
+Kepler-611 b,0,Hot,Superterran
+Kepler-612 b,0,Hot,Neptunian
+Kepler-613 b,0,Hot,Superterran
+Kepler-614 b,0,Hot,Superterran
+Kepler-615 b,0,Hot,Superterran
+Kepler-616 b,0,Hot,Superterran
+Kepler-616 c,0,Hot,Neptunian
+Kepler-617 b,0,Hot,Terran
+Kepler-618 b,0,Hot,Neptunian
+Kepler-619 b,0,Hot,Neptunian
+Kepler-619 c,0,Hot,Superterran
+Kepler-62 b,0,Hot,Terran
+Kepler-62 c,0,Hot,Subterran
+Kepler-62 d,0,Hot,Superterran
+Kepler-62 e,1,Warm,Superterran
+Kepler-62 f,2,Warm,Terran
+Kepler-620 b,0,Hot,Neptunian
+Kepler-621 b,0,Hot,Superterran
+Kepler-622 b,0,Hot,Superterran
+Kepler-623 b,0,Hot,Neptunian
+Kepler-624 b,0,Hot,Superterran
+Kepler-625 b,0,Hot,Superterran
+Kepler-625 c,0,Hot,Terran
+Kepler-626 b,0,Hot,Superterran
+Kepler-627 b,0,Hot,Neptunian
+Kepler-628 b,0,Hot,Jovian
+Kepler-629 b,0,Hot,Terran
+Kepler-63 b,0,Hot,Jovian
+Kepler-630 b,0,Hot,Neptunian
+Kepler-631 b,0,Hot,Neptunian
+Kepler-632 b,0,Hot,Superterran
+Kepler-633 b,0,Hot,Superterran
+Kepler-634 b,0,Hot,Superterran
+Kepler-635 b,0,Hot,Neptunian
+Kepler-636 b,0,Hot,Neptunian
+Kepler-637 b,0,Hot,Neptunian
+Kepler-638 b,0,Hot,Superterran
+Kepler-639 b,0,Hot,Superterran
+Kepler-640 b,0,Hot,Neptunian
+Kepler-641 b,0,Hot,Superterran
+Kepler-642 b,0,Hot,Neptunian
+Kepler-643 b,0,Hot,Jovian
+Kepler-644 b,0,Hot,Neptunian
+Kepler-645 b,0,Hot,Superterran
+Kepler-646 b,0,Hot,Superterran
+Kepler-647 b,0,Hot,Terran
+Kepler-648 b,0,Hot,Neptunian
+Kepler-649 b,0,Hot,Superterran
+Kepler-65 b,0,Hot,Terran
+Kepler-65 c,0,Hot,Neptunian
+Kepler-65 d,0,Hot,Superterran
+Kepler-65 e,0,Hot,Jovian
+Kepler-650 b,0,Hot,Neptunian
+Kepler-651 b,0,Hot,Superterran
+Kepler-652 b,0,Hot,Superterran
+Kepler-653 b,0,Hot,Superterran
+Kepler-653 c,0,Hot,Subterran
+Kepler-654 b,0,Hot,Superterran
+Kepler-655 b,0,Hot,Neptunian
+Kepler-656 b,0,Hot,Neptunian
+Kepler-657 b,0,Hot,Neptunian
+Kepler-658 b,0,Hot,Superterran
+Kepler-659 b,0,Hot,Superterran
+Kepler-66 b,0,Hot,Neptunian
+Kepler-660 b,0,Hot,Neptunian
+Kepler-661 b,0,Hot,Neptunian
+Kepler-662 b,0,Hot,Superterran
+Kepler-663 b,0,Hot,Neptunian
+Kepler-664 b,0,Hot,Neptunian
+Kepler-665 b,0,Hot,Neptunian
+Kepler-666 b,0,Hot,Superterran
+Kepler-667 b,0,Hot,Neptunian
+Kepler-668 b,0,Hot,Neptunian
+Kepler-669 b,0,Hot,Neptunian
+Kepler-67 b,0,Hot,Neptunian
+Kepler-670 b,0,Hot,Jovian
+Kepler-671 b,0,Hot,Neptunian
+Kepler-672 b,0,Hot,Superterran
+Kepler-673 b,0,Hot,Jovian
+Kepler-674 b,0,Hot,Superterran
+Kepler-675 b,0,Hot,Superterran
+Kepler-676 b,0,Hot,Neptunian
+Kepler-677 b,0,Hot,Neptunian
+Kepler-678 b,0,Hot,Neptunian
+Kepler-679 b,0,Hot,Neptunian
+Kepler-68 b,0,Hot,Superterran
+Kepler-68 c,0,Hot,Terran
+Kepler-68 d,2,Warm,Jovian
+Kepler-680 b,0,Hot,Superterran
+Kepler-681 b,0,Hot,Neptunian
+Kepler-682 b,0,Hot,Jovian
+Kepler-683 b,0,Hot,Superterran
+Kepler-684 b,0,Hot,Neptunian
+Kepler-685 b,0,Hot,Jovian
+Kepler-686 b,0,Hot,Jovian
+Kepler-687 b,0,Hot,Neptunian
+Kepler-688 b,0,Hot,Jovian
+Kepler-689 b,0,Hot,Neptunian
+Kepler-69 b,0,Hot,Superterran
+Kepler-69 c,0,Hot,Superterran
+Kepler-690 b,0,Hot,Neptunian
+Kepler-691 b,0,Hot,Superterran
+Kepler-692 b,0,Hot,Neptunian
+Kepler-693 b,0,Hot,Jovian
+Kepler-694 b,0,Hot,Neptunian
+Kepler-695 b,0,Hot,Jovian
+Kepler-696 b,0,Hot,Jovian
+Kepler-697 b,0,Hot,Neptunian
+Kepler-698 b,0,Hot,Neptunian
+Kepler-699 b,0,Hot,Jovian
+Kepler-7 b,0,Hot,Jovian
+Kepler-700 b,0,Hot,Neptunian
+Kepler-701 b,0,Hot,Neptunian
+Kepler-702 b,0,Hot,Jovian
+Kepler-703 b,0,Hot,Jovian
+Kepler-704 b,0,Hot,Neptunian
+Kepler-705 b,2,Warm,Superterran
+Kepler-706 b,0,Hot,Jovian
+Kepler-707 b,0,Hot,Terran
+Kepler-708 b,0,Hot,Neptunian
+Kepler-709 b,0,Hot,Neptunian
+Kepler-710 b,0,Hot,Superterran
+Kepler-711 b,0,Hot,Neptunian
+Kepler-712 b,0,Hot,Neptunian
+Kepler-712 c,2,Warm,Neptunian
+Kepler-713 b,0,Hot,Superterran
+Kepler-714 b,0,Hot,Jovian
+Kepler-715 b,0,Hot,Neptunian
+Kepler-716 b,0,Hot,Neptunian
+Kepler-717 b,0,Hot,Superterran
+Kepler-718 b,0,Hot,Jovian
+Kepler-719 b,0,Hot,Jovian
+Kepler-720 b,0,Hot,Jovian
+Kepler-721 b,0,Hot,Neptunian
+Kepler-722 b,0,Hot,Neptunian
+Kepler-722 c,0,Hot,Neptunian
+Kepler-723 b,0,Hot,Jovian
+Kepler-724 b,0,Hot,Neptunian
+Kepler-725 b,0,Hot,Jovian
+Kepler-726 b,0,Hot,Neptunian
+Kepler-727 b,0,Hot,Neptunian
+Kepler-728 b,0,Hot,Neptunian
+Kepler-729 b,0,Hot,Neptunian
+Kepler-730 b,0,Hot,Jovian
+Kepler-730 c,0,Hot,Superterran
+Kepler-731 b,0,Hot,Jovian
+Kepler-732 b,0,Hot,Superterran
+Kepler-732 c,0,Hot,Terran
+Kepler-733 b,0,Hot,Neptunian
+Kepler-734 b,0,Hot,Neptunian
+Kepler-735 b,0,Hot,Neptunian
+Kepler-736 b,0,Hot,Neptunian
+Kepler-737 b,0,Hot,Superterran
+Kepler-738 b,0,Hot,Superterran
+Kepler-739 b,0,Hot,Neptunian
+Kepler-74 b,0,Hot,Jovian
+Kepler-740 b,0,Hot,Neptunian
+Kepler-741 b,0,Hot,Neptunian
+Kepler-742 b,0,Hot,Neptunian
+Kepler-743 b,0,Hot,Terran
+Kepler-744 b,0,Hot,Superterran
+Kepler-745 b,0,Hot,Superterran
+Kepler-746 b,0,Hot,Terran
+Kepler-747 b,0,Hot,Neptunian
+Kepler-748 b,0,Hot,Neptunian
+Kepler-749 b,0,Hot,Neptunian
+Kepler-75 b,0,Hot,Jovian
+Kepler-750 b,0,Hot,Neptunian
+Kepler-750 c,0,Hot,Superterran
+Kepler-751 b,0,Hot,Superterran
+Kepler-752 b,0,Hot,Neptunian
+Kepler-753 b,0,Hot,Superterran
+Kepler-754 b,0,Hot,Superterran
+Kepler-755 b,0,Hot,Superterran
+Kepler-755 c,0,Hot,Terran
+Kepler-756 b,0,Hot,Terran
+Kepler-757 b,0,Hot,Terran
+Kepler-758 b,0,Hot,Superterran
+Kepler-758 c,0,Hot,Superterran
+Kepler-758 d,0,Hot,Superterran
+Kepler-758 e,0,Hot,Superterran
+Kepler-759 b,0,Hot,Superterran
+Kepler-76 b,0,Hot,Jovian
+Kepler-760 b,0,Hot,Neptunian
+Kepler-760 c,0,Hot,Terran
+Kepler-761 b,0,Hot,Superterran
+Kepler-762 b,0,Hot,Jovian
+Kepler-763 b,0,Hot,Terran
+Kepler-764 b,0,Hot,Superterran
+Kepler-765 b,0,Hot,Superterran
+Kepler-766 b,0,Hot,Neptunian
+Kepler-767 b,0,Hot,Jovian
+Kepler-768 b,0,Hot,Superterran
+Kepler-769 b,0,Hot,Neptunian
+Kepler-769 c,0,Hot,Superterran
+Kepler-77 b,0,Hot,Jovian
+Kepler-770 b,0,Hot,Superterran
+Kepler-770 c,0,Hot,Terran
+Kepler-770 d,0,Hot,Terran
+Kepler-771 b,0,Hot,Superterran
+Kepler-772 b,0,Hot,Superterran
+Kepler-773 b,0,Hot,Terran
+Kepler-774 b,0,Hot,Neptunian
+Kepler-775 b,0,Hot,Terran
+Kepler-776 b,0,Hot,Terran
+Kepler-777 b,0,Hot,Terran
+Kepler-778 b,0,Hot,Superterran
+Kepler-779 b,0,Hot,Terran
+Kepler-78 b,0,Hot,Terran
+Kepler-780 b,0,Hot,Terran
+Kepler-781 b,0,Hot,Neptunian
+Kepler-782 b,0,Hot,Neptunian
+Kepler-783 b,0,Hot,Subterran
+Kepler-784 b,0,Hot,Superterran
+Kepler-785 b,0,Hot,Jovian
+Kepler-786 b,0,Hot,Superterran
+Kepler-787 b,0,Hot,Terran
+Kepler-788 b,0,Hot,Neptunian
+Kepler-789 b,0,Hot,Superterran
+Kepler-79 b,0,Hot,Neptunian
+Kepler-79 c,0,Hot,Neptunian
+Kepler-79 d,0,Hot,Jovian
+Kepler-79 e,0,Hot,Neptunian
+Kepler-790 b,0,Hot,Superterran
+Kepler-791 b,0,Hot,Neptunian
+Kepler-792 b,0,Hot,Superterran
+Kepler-793 b,0,Hot,Terran
+Kepler-794 b,0,Hot,Superterran
+Kepler-795 b,0,Hot,Superterran
+Kepler-796 b,0,Hot,Terran
+Kepler-797 b,0,Hot,Superterran
+Kepler-798 b,0,Hot,Superterran
+Kepler-799 b,0,Hot,Jovian
+Kepler-8 b,0,Hot,Jovian
+Kepler-80 b,0,Hot,Neptunian
+Kepler-80 c,0,Hot,Neptunian
+Kepler-80 d,0,Hot,Superterran
+Kepler-80 e,0,Hot,Superterran
+Kepler-80 f,0,Hot,Terran
+Kepler-80 g,0,Hot,Terran
+Kepler-800 b,0,Hot,Neptunian
+Kepler-801 b,0,Hot,Superterran
+Kepler-802 b,0,Hot,Neptunian
+Kepler-803 b,0,Hot,Neptunian
+Kepler-804 b,0,Hot,Superterran
+Kepler-804 c,0,Hot,Terran
+Kepler-805 b,0,Hot,Neptunian
+Kepler-806 b,0,Hot,Terran
+Kepler-807 b,0,Hot,Jovian
+Kepler-808 b,0,Hot,Terran
+Kepler-809 b,0,Hot,Neptunian
+Kepler-81 b,0,,Superterran
+Kepler-81 c,0,,Superterran
+Kepler-81 d,0,Hot,Terran
+Kepler-810 b,0,Hot,Superterran
+Kepler-811 b,0,Hot,Neptunian
+Kepler-812 b,0,Hot,Neptunian
+Kepler-813 b,0,Hot,Superterran
+Kepler-814 b,0,Hot,Superterran
+Kepler-815 b,0,Hot,Neptunian
+Kepler-816 b,0,Hot,Jovian
+Kepler-817 b,0,Hot,Jovian
+Kepler-818 b,0,Hot,Neptunian
+Kepler-819 b,0,Hot,Neptunian
+Kepler-82 b,0,,Neptunian
+Kepler-82 c,0,,Neptunian
+Kepler-82 d,0,,Superterran
+Kepler-82 e,0,,Superterran
+Kepler-82 f,0,,Neptunian
+Kepler-820 b,0,Hot,Jovian
+Kepler-821 b,0,Hot,Terran
+Kepler-822 b,0,Hot,Superterran
+Kepler-823 b,0,Hot,Superterran
+Kepler-824 b,0,Hot,Superterran
+Kepler-825 b,0,Hot,Superterran
+Kepler-825 c,0,Hot,Superterran
+Kepler-826 b,0,Hot,Terran
+Kepler-827 b,0,Hot,Neptunian
+Kepler-828 b,0,Hot,Superterran
+Kepler-829 b,0,Hot,Superterran
+Kepler-83 b,0,,Neptunian
+Kepler-83 c,0,,Superterran
+Kepler-83 d,0,Hot,Superterran
+Kepler-830 b,0,Hot,Superterran
+Kepler-831 b,0,Hot,Terran
+Kepler-832 b,0,Hot,Superterran
+Kepler-833 b,0,Hot,Superterran
+Kepler-834 b,0,Hot,Superterran
+Kepler-835 b,0,Hot,Neptunian
+Kepler-836 b,0,Hot,Neptunian
+Kepler-837 b,0,Hot,Neptunian
+Kepler-838 b,0,Hot,Neptunian
+Kepler-839 b,0,Hot,Neptunian
+Kepler-84 b,0,,Superterran
+Kepler-84 c,0,,Superterran
+Kepler-84 d,0,Hot,Terran
+Kepler-84 e,0,Hot,Neptunian
+Kepler-84 f,0,Hot,Superterran
+Kepler-840 b,0,Hot,Jovian
+Kepler-841 b,0,Hot,Neptunian
+Kepler-842 b,0,Hot,Superterran
+Kepler-843 b,0,Hot,Neptunian
+Kepler-844 b,0,Hot,Superterran
+Kepler-845 b,0,Hot,Superterran
+Kepler-846 b,0,Hot,Superterran
+Kepler-847 b,0,Hot,Terran
+Kepler-848 b,0,Hot,Superterran
+Kepler-849 b,0,Hot,Jovian
+Kepler-85 b,0,,Superterran
+Kepler-85 c,0,,Superterran
+Kepler-85 d,0,Hot,Terran
+Kepler-85 e,0,Hot,Terran
+Kepler-850 b,0,Hot,Superterran
+Kepler-851 b,0,Hot,Superterran
+Kepler-852 b,0,Hot,Neptunian
+Kepler-853 b,0,Hot,Superterran
+Kepler-854 b,0,Hot,Jovian
+Kepler-855 b,0,Hot,Jovian
+Kepler-856 b,0,Hot,Jovian
+Kepler-857 b,0,Hot,Jovian
+Kepler-858 b,0,Hot,Neptunian
+Kepler-859 b,0,Hot,Neptunian
+Kepler-860 b,0,Hot,Neptunian
+Kepler-861 b,0,Hot,Superterran
+Kepler-862 b,0,Hot,Superterran
+Kepler-863 b,0,Hot,Neptunian
+Kepler-864 b,0,Hot,Superterran
+Kepler-865 b,0,Hot,Superterran
+Kepler-866 b,0,Hot,Superterran
+Kepler-867 b,0,Hot,Neptunian
+Kepler-868 b,0,Hot,Superterran
+Kepler-869 b,0,Hot,Neptunian
+Kepler-87 b,0,Hot,Jovian
+Kepler-87 c,0,Hot,Jovian
+Kepler-870 b,0,Hot,Neptunian
+Kepler-871 b,0,Hot,Neptunian
+Kepler-872 b,0,Hot,Superterran
+Kepler-873 b,0,Hot,Neptunian
+Kepler-874 b,0,Hot,Neptunian
+Kepler-875 b,0,Hot,Neptunian
+Kepler-876 b,0,Hot,Terran
+Kepler-877 b,0,Hot,Superterran
+Kepler-878 b,0,Hot,Superterran
+Kepler-879 b,0,Hot,Neptunian
+Kepler-880 b,0,Hot,Neptunian
+Kepler-881 b,0,Hot,Superterran
+Kepler-882 b,0,Hot,Terran
+Kepler-883 b,0,Hot,Superterran
+Kepler-884 b,0,Hot,Terran
+Kepler-885 b,0,Hot,Superterran
+Kepler-886 b,0,Hot,Superterran
+Kepler-887 b,0,Hot,Superterran
+Kepler-887 c,0,Hot,Terran
+Kepler-888 b,0,Hot,Superterran
+Kepler-889 b,0,Hot,Terran
+Kepler-890 b,0,Hot,Jovian
+Kepler-891 b,0,Hot,Jovian
+Kepler-892 b,0,Hot,Neptunian
+Kepler-893 b,0,Hot,Neptunian
+Kepler-894 b,0,Hot,Neptunian
+Kepler-895 b,0,Hot,Superterran
+Kepler-896 b,0,Hot,Neptunian
+Kepler-897 b,0,Hot,Superterran
+Kepler-898 b,0,Hot,Terran
+Kepler-899 b,0,Hot,Neptunian
+Kepler-9 b,0,Hot,Jovian
+Kepler-9 c,0,Hot,Jovian
+Kepler-9 d,0,Hot,Superterran
+Kepler-90 b,0,Hot,Terran
+Kepler-90 c,0,Hot,Terran
+Kepler-90 d,0,Hot,Neptunian
+Kepler-90 e,0,Hot,Neptunian
+Kepler-90 f,0,Hot,Neptunian
+Kepler-90 g,0,Hot,Jovian
+Kepler-90 h,1,Warm,Jovian
+Kepler-90 i,0,Hot,Terran
+Kepler-900 b,0,Hot,Superterran
+Kepler-901 b,0,Hot,Terran
+Kepler-902 b,0,Hot,Neptunian
+Kepler-903 b,0,Hot,Superterran
+Kepler-903 c,0,Hot,Neptunian
+Kepler-904 b,0,Hot,Superterran
+Kepler-905 b,0,Hot,Terran
+Kepler-906 b,0,Hot,Superterran
+Kepler-907 b,0,Hot,Terran
+Kepler-908 b,0,Hot,Terran
+Kepler-909 b,0,Hot,Terran
+Kepler-91 b,0,Hot,Jovian
+Kepler-910 b,0,Hot,Terran
+Kepler-911 b,0,Hot,Neptunian
+Kepler-912 b,0,Hot,Neptunian
+Kepler-913 b,0,Hot,Superterran
+Kepler-914 b,0,Hot,Terran
+Kepler-915 b,0,Hot,Superterran
+Kepler-916 b,0,Hot,Superterran
+Kepler-917 b,0,Hot,Superterran
+Kepler-918 b,0,Hot,Superterran
+Kepler-919 b,0,Hot,Superterran
+Kepler-92 b,0,,Jovian
+Kepler-92 c,0,,Neptunian
+Kepler-92 d,0,,Superterran
+Kepler-920 b,0,Hot,Superterran
+Kepler-920 c,0,Hot,Neptunian
+Kepler-921 b,0,Hot,Neptunian
+Kepler-922 b,0,Hot,Terran
+Kepler-923 b,0,Hot,Terran
+Kepler-924 b,0,Hot,Neptunian
+Kepler-925 b,0,Hot,Superterran
+Kepler-926 b,0,Hot,Superterran
+Kepler-927 b,0,Hot,Superterran
+Kepler-928 b,0,Hot,Superterran
+Kepler-929 b,0,Hot,Terran
+Kepler-93 b,0,Hot,Superterran
+Kepler-93 c,0,Cold,Jovian
+Kepler-930 b,0,Hot,Superterran
+Kepler-931 b,0,Hot,Terran
+Kepler-932 b,0,Hot,Terran
+Kepler-933 b,0,Hot,Superterran
+Kepler-934 b,0,Hot,Superterran
+Kepler-935 b,0,Hot,Terran
+Kepler-936 b,0,Hot,Terran
+Kepler-937 b,0,Hot,Neptunian
+Kepler-937 c,0,Hot,Neptunian
+Kepler-938 b,0,Hot,Superterran
+Kepler-939 b,0,Hot,Superterran
+Kepler-94 b,0,Hot,Neptunian
+Kepler-94 c,0,Cold,Jovian
+Kepler-940 b,0,Hot,Neptunian
+Kepler-941 b,0,Hot,Neptunian
+Kepler-942 b,0,Hot,Superterran
+Kepler-943 b,0,Hot,Neptunian
+Kepler-944 b,0,Hot,Neptunian
+Kepler-945 b,0,Hot,Neptunian
+Kepler-946 b,0,Hot,Superterran
+Kepler-947 b,0,Hot,Superterran
+Kepler-948 b,0,Hot,Superterran
+Kepler-949 b,0,Hot,Neptunian
+Kepler-95 b,0,Hot,Neptunian
+Kepler-950 b,0,Hot,Jovian
+Kepler-951 b,0,Hot,Neptunian
+Kepler-952 b,0,Hot,Jovian
+Kepler-953 b,0,Hot,Neptunian
+Kepler-953 c,0,Hot,Terran
+Kepler-954 b,0,Hot,Superterran
+Kepler-955 b,0,Hot,Neptunian
+Kepler-956 b,0,Hot,Neptunian
+Kepler-957 b,0,Hot,Neptunian
+Kepler-958 b,0,Hot,Superterran
+Kepler-959 b,0,Hot,Neptunian
+Kepler-96 b,0,Hot,Neptunian
+Kepler-960 b,0,Hot,Superterran
+Kepler-961 b,0,Hot,Neptunian
+Kepler-962 b,0,Hot,Superterran
+Kepler-963 b,0,Hot,Neptunian
+Kepler-964 b,0,Hot,Superterran
+Kepler-965 b,0,Hot,Neptunian
+Kepler-966 b,0,Hot,Neptunian
+Kepler-967 b,0,Hot,Superterran
+Kepler-967 c,2,Warm,Neptunian
+Kepler-968 b,0,Hot,Superterran
+Kepler-968 c,0,Hot,Superterran
+Kepler-969 b,0,Hot,Superterran
+Kepler-969 c,0,Hot,Terran
+Kepler-97 b,0,Hot,Terran
+Kepler-97 c,2,Warm,Jovian
+Kepler-970 b,0,Hot,Neptunian
+Kepler-971 b,0,Hot,Superterran
+Kepler-972 b,0,Hot,Neptunian
+Kepler-973 b,0,Hot,Superterran
+Kepler-974 b,0,Hot,Superterran
+Kepler-975 b,0,Hot,Terran
+Kepler-976 b,0,Hot,Neptunian
+Kepler-977 b,0,Hot,Neptunian
+Kepler-978 b,0,Hot,Neptunian
+Kepler-979 b,0,Hot,Neptunian
+Kepler-98 b,0,Hot,Superterran
+Kepler-980 b,0,Hot,Neptunian
+Kepler-981 b,0,Hot,Superterran
+Kepler-982 b,0,Hot,Superterran
+Kepler-983 b,0,Hot,Superterran
+Kepler-984 b,0,Hot,Superterran
+Kepler-985 b,0,Hot,Neptunian
+Kepler-986 b,0,Hot,Superterran
+Kepler-987 b,0,Hot,Neptunian
+Kepler-988 b,0,Hot,Superterran
+Kepler-989 b,0,Hot,Superterran
+Kepler-99 b,0,Hot,Superterran
+Kepler-990 b,0,Hot,Neptunian
+Kepler-990 c,0,Hot,Superterran
+Kepler-991 b,1,Warm,Neptunian
+Kepler-992 b,0,Hot,Superterran
+Kepler-993 b,0,Hot,Neptunian
+Kepler-994 b,0,Hot,Superterran
+Kepler-995 b,0,Hot,Neptunian
+Kepler-996 b,0,Hot,Superterran
+Kepler-997 b,0,Hot,Terran
+Kepler-998 b,0,Hot,Superterran
+Kepler-999 b,0,Hot,Superterran
+KIC 10001893 b,0,,
+KIC 10001893 c,0,,
+KIC 10001893 d,0,,
+KIC 10525077 b,2,Warm,Neptunian
+KIC 3558849 b,0,Cold,Jovian
+KIC 5437945 b,1,Warm,Jovian
+KIC 5951458 b,2,Warm,Jovian
+KIC 7917485 b,0,Hot,Jovian
+KIC 8540376 b,0,Hot,Neptunian
+KIC 8540376 c,0,Hot,Superterran
+KIC 9663113 b,2,Warm,Neptunian
+KMT-2016-BLG-1107L b,0,,Jovian
+KMT-2016-BLG-1397L b,0,,Jovian
+KMT-2016-BLG-1820L b,0,,Jovian
+KMT-2016-BLG-2142L b,0,,Jovian
+KMT-2017-BLG-0165L b,0,,Neptunian
+KMT-2017-BLG-1038L b,0,,Jovian
+KMT-2017-BLG-1146L b,0,,Jovian
+KOI-12 b,0,Hot,Jovian
+KOI-1257 b,0,Hot,Jovian
+KOI-13 b,0,Hot,Jovian
+KOI-142 b,0,Hot,Neptunian
+KOI-142 c,0,Hot,Jovian
+KOI-1599.01,0,,Superterran
+KOI-1599.02,0,,Superterran
+KOI-217 b,0,Hot,Jovian
+KOI-3680 b,0,Hot,Jovian
+KOI-55 b,0,Hot,Subterran
+KOI-55 c,0,Hot,Terran
+KOI-94 b,0,Hot,Neptunian
+KOI-94 c,0,Hot,Neptunian
+KOI-94 d,0,Hot,Jovian
+KOI-94 e,0,Hot,Jovian
+KPS-1 b,0,Hot,Jovian
+L 98-59 b,0,Hot,Subterran
+L 98-59 c,0,Hot,Terran
+L 98-59 d,0,Hot,Superterran
+LHS 1140 b,2,Warm,Superterran
+LHS 1140 c,0,Hot,Terran
+LHS 3844 b,0,Hot,Terran
+LkCa 15 b,0,,
+LkCa 15 c,0,,
+LSPM J2116+0234 b,0,Hot,Neptunian
+LTT 1445 A b,0,Hot,Terran
+Lupus-TR-3 b,0,Hot,Jovian
+MASCARA-1 b,0,Hot,Jovian
+MOA-2007-BLG-192L b,0,,Terran
+MOA-2007-BLG-400L b,0,,Jovian
+MOA-2008-BLG-310L b,0,,Neptunian
+MOA-2008-BLG-379L b,0,,Jovian
+MOA-2009-BLG-266L b,0,,Neptunian
+MOA-2009-BLG-319L b,0,,Jovian
+MOA-2009-BLG-387L b,0,,Jovian
+MOA-2010-BLG-073L b,0,,Jovian
+MOA-2010-BLG-117L b,0,,Jovian
+MOA-2010-BLG-328L b,0,,Superterran
+MOA-2010-BLG-353L b,0,,Jovian
+MOA-2010-BLG-477L b,0,,Jovian
+MOA-2011-BLG-028L b,0,,Neptunian
+MOA-2011-BLG-262L b,0,,Neptunian
+MOA-2011-BLG-291L b,0,,Neptunian
+MOA-2011-BLG-293L b,0,,Jovian
+MOA-2011-BLG-322L b,0,,Jovian
+MOA-2012-BLG-006L b,0,,Jovian
+MOA-2012-BLG-505L b,0,,Superterran
+MOA-2013-BLG-605L b,0,,Terran
+MOA-2015-BLG-337L b,0,,Neptunian
+MOA-2016-BLG-227L b,0,,Jovian
+MOA-2016-BLG-319L b,0,,Jovian
+MOA-bin-1L b,0,,Jovian
+mu Leo b,0,Hot,Jovian
+MXB 1658-298 b,0,,Jovian
+NGC 2682 Sand 364 b,0,Hot,Jovian
+NGC 2682 Sand 978 b,0,Hot,Jovian
+NGC 2682 YBP 1194 b,0,Hot,Jovian
+NGC 2682 YBP 1514 b,0,Hot,Jovian
+NGC 2682 YBP 401 b,0,Hot,Jovian
+NGTS-1 b,0,Hot,Jovian
+NGTS-2 b,0,Hot,Jovian
+NGTS-3 A b,0,Hot,Jovian
+NGTS-4 b,0,Hot,Neptunian
+NGTS-5 b,0,Hot,Jovian
+NN Ser c,0,,Jovian
+NN Ser d,0,,Jovian
+NSVS 14256825 b,0,Hot,Jovian
+nu Oph b,0,Hot,Jovian
+nu Oph c,0,Hot,Jovian
+NY Vir b,0,,Jovian
+OGLE-2003-BLG-235L b,0,,Jovian
+OGLE-2005-BLG-071L b,0,,Jovian
+OGLE-2005-BLG-169L b,0,,Neptunian
+OGLE-2005-BLG-390L b,0,,Superterran
+OGLE-2006-BLG-109L b,0,,Jovian
+OGLE-2006-BLG-109L c,0,,Jovian
+OGLE-2007-BLG-349L AB c,0,,Jovian
+OGLE-2007-BLG-368L b,0,,Neptunian
+OGLE-2008-BLG-092L b,0,,Jovian
+OGLE-2008-BLG-355L b,0,,Jovian
+OGLE-2011-BLG-0173L b,0,,Jovian
+OGLE-2011-BLG-0251L b,0,,Jovian
+OGLE-2011-BLG-0265L b,0,,Jovian
+OGLE-2012-BLG-0026L b,0,,Neptunian
+OGLE-2012-BLG-0026L c,0,,Jovian
+OGLE-2012-BLG-0358L b,0,,Jovian
+OGLE-2012-BLG-0406L b,0,,Jovian
+OGLE-2012-BLG-0563L b,0,,Jovian
+OGLE-2012-BLG-0724L b,0,,Jovian
+OGLE-2012-BLG-0950L b,0,,Neptunian
+OGLE-2013-BLG-0102L b,0,,Jovian
+OGLE-2013-BLG-0132L b,0,,Jovian
+OGLE-2013-BLG-0341L B b,0,,Terran
+OGLE-2013-BLG-1721L b,0,,Jovian
+OGLE-2013-BLG-1761L b,0,,Jovian
+OGLE-2014-BLG-0124L b,0,,Jovian
+OGLE-2014-BLG-0676L b,0,,Jovian
+OGLE-2014-BLG-1722L b,0,,Jovian
+OGLE-2014-BLG-1722L c,0,,Jovian
+OGLE-2014-BLG-1760L b,0,,Jovian
+OGLE-2015-BLG-0051L b,0,,Jovian
+OGLE-2015-BLG-0954L b,0,,Jovian
+OGLE-2015-BLG-0966L b,0,,Neptunian
+OGLE-2015-BLG-1670L b,0,,Neptunian
+OGLE-2016-BLG-0263L b,0,,Jovian
+OGLE-2016-BLG-0613L AB b,0,,Jovian
+OGLE-2016-BLG-1190L b,0,,Jovian
+OGLE-2016-BLG-1195L b,0,,Terran
+OGLE-2017-BLG-0173L b,0,,Terran
+OGLE-2017-BLG-0373L b,0,,Jovian
+OGLE-2017-BLG-0482L b,0,,Superterran
+OGLE-2017-BLG-1140L b,0,,Jovian
+OGLE-2017-BLG-1434L b,0,,Terran
+OGLE-2017-BLG-1522L b,0,,Jovian
+OGLE-2018-BLG-0596L b,0,,Neptunian
+OGLE2-TR-L9 b,0,Hot,Jovian
+OGLE-TR-056 b,0,,Jovian
+OGLE-TR-10 b,0,Hot,Jovian
+OGLE-TR-111 b,0,Hot,Jovian
+OGLE-TR-113 b,0,Hot,Jovian
+OGLE-TR-132 b,0,Hot,Jovian
+OGLE-TR-182 b,0,Hot,Jovian
+OGLE-TR-211 b,0,Hot,Jovian
+ome Ser b,0,Hot,Jovian
+omi CrB b,0,Hot,Jovian
+omi UMa b,0,Hot,Jovian
+Oph 11 b,0,Cold,Jovian
+PDS 70 b,0,Cold,Jovian
+PDS 70 c,0,Cold,Jovian
+PH1 b,0,Hot,Jovian
+PH2 b,1,Warm,Jovian
+pi Men c,0,Hot,Superterran
+POTS-1 b,0,Hot,Jovian
+Pr0201 b,0,Hot,Jovian
+Pr0211 b,0,Hot,Jovian
+Pr0211 c,0,Cold,Jovian
+Proxima Cen b,2,Warm,Terran
+psi 1 Dra B b,0,Cold,Jovian
+PSR B1257+12 b,0,,Miniterran
+PSR B1257+12 c,0,,Terran
+PSR B1257+12 d,0,,Terran
+PSR B1620-26 b,0,,Jovian
+PSR J1719-1438 b,0,Hot,Jovian
+PSR J2322-2650 b,0,,Jovian
+Qatar-1 b,0,Hot,Jovian
+Qatar-10 b,0,Hot,Jovian
+Qatar-2 b,0,Hot,Jovian
+Qatar-3 b,0,Hot,Jovian
+Qatar-4 b,0,Hot,Jovian
+Qatar-5 b,0,Hot,Jovian
+Qatar-7 b,0,Hot,Jovian
+Qatar-8 b,0,Hot,Jovian
+Qatar-9 b,0,Hot,Jovian
+rho CrB b,0,Hot,Jovian
+rho CrB c,0,Hot,Neptunian
+Ross 128 b,0,Hot,Terran
+Ross 458 c,0,Cold,Jovian
+ROXs 12 b,0,,Jovian
+ROXs 42 B b,0,,Jovian
+RR Cae b,0,,Jovian
+SR 12 AB c,0,,Jovian
+SWEEPS-11 b,0,,Jovian
+SWEEPS-4 b,0,,Jovian
+TAP 26 b,0,Hot,Jovian
+tau Boo b,0,Hot,Jovian
+tau Cet e,1,Warm,Terran
+tau Cet f,0,Cold,Terran
+tau Cet g,0,Hot,Terran
+tau Cet h,0,Hot,Terran
+tau Gem b,0,Hot,Jovian
+TCP J05074264+2447555 b,0,,Superterran
+Teegarden's Star b,1,Warm,Terran
+Teegarden's Star c,2,Warm,Terran
+TOI 150.01,0,Hot,Jovian
+TOI 172 b,0,Hot,Jovian
+TOI 216.01,0,Hot,Jovian
+TOI 216.02,0,Hot,Jovian
+TOI 270 b,0,Hot,Terran
+TOI 270 c,0,Hot,Superterran
+TOI 270 d,0,Hot,Superterran
+TRAPPIST-1 b,0,Hot,Terran
+TRAPPIST-1 c,0,Hot,Terran
+TRAPPIST-1 d,1,Warm,Subterran
+TRAPPIST-1 e,2,Warm,Terran
+TRAPPIST-1 f,2,Warm,Terran
+TRAPPIST-1 g,2,Warm,Terran
+TRAPPIST-1 h,0,Cold,Subterran
+TrES-1 b,0,Hot,Jovian
+TrES-2 b,0,Hot,Jovian
+TrES-3 b,0,Hot,Jovian
+TrES-4 b,0,Hot,Jovian
+TrES-5 b,0,Hot,Jovian
+TYC 1422-614-1 b,0,Hot,Jovian
+TYC 1422-614-1 c,0,Hot,Jovian
+TYC 3318-01333-1 b,0,Hot,Jovian
+TYC 3667-1280-1 b,0,Hot,Jovian
+TYC 4282-00605-1 b,0,Hot,Jovian
+UKIRT-2017-BLG-001L b,0,,Jovian
+ups And b,0,,Jovian
+ups And c,0,,Jovian
+ups And d,0,,Jovian
+USco CTIO 108 b,0,,Jovian
+UZ For b,0,,Jovian
+UZ For c,0,,Jovian
+V0391 Peg b,0,Hot,Jovian
+V1298 Tau b,0,Hot,Jovian
+V830 Tau b,0,Hot,Jovian
+VHS J125601.92-125723.9 b,0,Cold,Jovian
+WASP-1 b,0,,Jovian
+WASP-10 b,0,Hot,Jovian
+WASP-100 b,0,Hot,Jovian
+WASP-101 b,0,Hot,Jovian
+WASP-103 b,0,Hot,Jovian
+WASP-104 b,0,Hot,Jovian
+WASP-105 b,0,Hot,Jovian
+WASP-106 b,0,Hot,Jovian
+WASP-107 b,0,Hot,Jovian
+WASP-11 b,0,Hot,Jovian
+WASP-113 b,0,Hot,Jovian
+WASP-114 b,0,Hot,Jovian
+WASP-117 b,0,Hot,Jovian
+WASP-118 b,0,Hot,Jovian
+WASP-119 b,0,Hot,Jovian
+WASP-12 b,0,Hot,Jovian
+WASP-120 b,0,Hot,Jovian
+WASP-121 b,0,Hot,Jovian
+WASP-123 b,0,Hot,Jovian
+WASP-124 b,0,Hot,Jovian
+WASP-126 b,0,Hot,Jovian
+WASP-127 b,0,Hot,Jovian
+WASP-129 b,0,Hot,Jovian
+WASP-13 b,0,Hot,Jovian
+WASP-130 b,0,Hot,Jovian
+WASP-131 b,0,Hot,Jovian
+WASP-132 b,0,Hot,Jovian
+WASP-133 b,0,Hot,Jovian
+WASP-135 b,0,Hot,Jovian
+WASP-136 b,0,Hot,Jovian
+WASP-138 b,0,Hot,Jovian
+WASP-139 b,0,Hot,Jovian
+WASP-14 b,0,Hot,Jovian
+WASP-140 b,0,Hot,Jovian
+WASP-141 b,0,Hot,Jovian
+WASP-142 b,0,Hot,Jovian
+WASP-144 b,0,Hot,Jovian
+WASP-145 A b,0,Hot,Jovian
+WASP-147 b,0,Hot,Jovian
+WASP-15 b,0,Hot,Jovian
+WASP-151 b,0,Hot,Jovian
+WASP-153 b,0,Hot,Jovian
+WASP-156 b,0,Hot,Neptunian
+WASP-157 b,0,Hot,Jovian
+WASP-158 b,0,Hot,Jovian
+WASP-159 b,0,Hot,Jovian
+WASP-16 b,0,Hot,Jovian
+WASP-160 B b,0,Hot,Jovian
+WASP-161 b,0,Hot,Jovian
+WASP-162 b,0,Hot,Jovian
+WASP-163 b,0,Hot,Jovian
+WASP-164 b,0,Hot,Jovian
+WASP-165 b,0,Hot,Jovian
+WASP-166 b,0,Hot,Jovian
+WASP-167 b,0,Hot,Jovian
+WASP-168 b,0,Hot,Jovian
+WASP-17 b,0,Hot,Jovian
+WASP-170 b,0,Hot,Jovian
+WASP-172 b,0,Hot,Jovian
+WASP-173 A b,0,Hot,Jovian
+WASP-174 b,0,Hot,Jovian
+WASP-177 b,0,Hot,Jovian
+WASP-18 b,0,Hot,Jovian
+WASP-181 b,0,Hot,Jovian
+WASP-183 b,0,Hot,Jovian
+WASP-19 b,0,Hot,Jovian
+WASP-190 b,0,Hot,Jovian
+WASP-2 b,0,Hot,Jovian
+WASP-20 b,0,Hot,Jovian
+WASP-21 b,0,Hot,Jovian
+WASP-22 b,0,Hot,Jovian
+WASP-23 b,0,Hot,Jovian
+WASP-24 b,0,Hot,Jovian
+WASP-25 b,0,Hot,Jovian
+WASP-26 b,0,Hot,Jovian
+WASP-28 b,0,Hot,Jovian
+WASP-29 b,0,Hot,Jovian
+WASP-3 b,0,Hot,Jovian
+WASP-31 b,0,Hot,Jovian
+WASP-32 b,0,Hot,Jovian
+WASP-33 b,0,Hot,Jovian
+WASP-34 b,0,Hot,Jovian
+WASP-35 b,0,Hot,Jovian
+WASP-36 b,0,Hot,Jovian
+WASP-37 b,0,Hot,Jovian
+WASP-38 b,0,Hot,Jovian
+WASP-39 b,0,Hot,Jovian
+WASP-4 b,0,Hot,Jovian
+WASP-41 b,0,Hot,Jovian
+WASP-41 c,2,Warm,Jovian
+WASP-42 b,0,Hot,Jovian
+WASP-43 b,0,Hot,Jovian
+WASP-44 b,0,Hot,Jovian
+WASP-45 b,0,Hot,Jovian
+WASP-46 b,0,Hot,Jovian
+WASP-47 b,0,Hot,Jovian
+WASP-47 c,2,Warm,Jovian
+WASP-47 d,0,Hot,Neptunian
+WASP-47 e,0,Hot,Superterran
+WASP-48 b,0,Hot,Jovian
+WASP-49 b,0,Hot,Jovian
+WASP-5 b,0,Hot,Jovian
+WASP-50 b,0,Hot,Jovian
+WASP-52 b,0,Hot,Jovian
+WASP-53 b,0,Hot,Jovian
+WASP-53 c,0,Cold,Jovian
+WASP-54 b,0,Hot,Jovian
+WASP-55 b,0,Hot,Jovian
+WASP-56 b,0,Hot,Jovian
+WASP-57 b,0,Hot,Jovian
+WASP-58 b,0,Hot,Jovian
+WASP-59 b,0,Hot,Jovian
+WASP-6 b,0,Hot,Jovian
+WASP-60 b,0,Hot,Jovian
+WASP-61 b,0,Hot,Jovian
+WASP-62 b,0,Hot,Jovian
+WASP-63 b,0,Hot,Jovian
+WASP-64 b,0,Hot,Jovian
+WASP-65 b,0,Hot,Jovian
+WASP-66 b,0,Hot,Jovian
+WASP-67 b,0,Hot,Jovian
+WASP-68 b,0,Hot,Jovian
+WASP-69 b,0,Hot,Jovian
+WASP-7 b,0,Hot,Jovian
+WASP-70 A b,0,Hot,Jovian
+WASP-71 b,0,Hot,Jovian
+WASP-72 b,0,Hot,Jovian
+WASP-73 b,0,Hot,Jovian
+WASP-74 b,0,Hot,Jovian
+WASP-75 b,0,Hot,Jovian
+WASP-76 b,0,Hot,Jovian
+WASP-77 A b,0,Hot,Jovian
+WASP-78 b,0,Hot,Jovian
+WASP-79 b,0,Hot,Jovian
+WASP-8 b,0,Hot,Jovian
+WASP-8 c,0,Cold,Jovian
+WASP-80 b,0,Hot,Jovian
+WASP-81 b,0,Hot,Jovian
+WASP-82 b,0,Hot,Jovian
+WASP-83 b,0,Hot,Jovian
+WASP-84 b,0,Hot,Jovian
+WASP-85 A b,0,Hot,Jovian
+WASP-87 b,0,Hot,Jovian
+WASP-88 b,0,Hot,Jovian
+WASP-89 b,0,Hot,Jovian
+WASP-90 b,0,Hot,Jovian
+WASP-91 b,0,Hot,Jovian
+WASP-92 b,0,Hot,Jovian
+WASP-93 b,0,Hot,Jovian
+WASP-94 A b,0,Hot,Jovian
+WASP-94 B b,0,Hot,Jovian
+WASP-95 b,0,Hot,Jovian
+WASP-96 b,0,Hot,Jovian
+WASP-97 b,0,Hot,Jovian
+WASP-98 b,0,Hot,Jovian
+WASP-99 b,0,Hot,Jovian
+WD 0806-661 b,0,,Jovian
+WISEP J121756.91+162640.2 A b,0,Cold,Jovian
+Wolf 1061 b,0,Hot,Terran
+Wolf 1061 c,1,Warm,Terran
+Wolf 1061 d,0,Cold,Superterran
+Wolf 503 b,0,Hot,Superterran
+WTS-1 b,0,Hot,Jovian
+WTS-2 b,0,Hot,Jovian
+XO-1 b,0,Hot,Jovian
+XO-2 N b,0,,Jovian
+XO-2 S b,0,Hot,Jovian
+XO-2 S c,0,Hot,Jovian
+XO-3 b,0,Hot,Jovian
+XO-4 b,0,Hot,Jovian
+XO-5 b,0,Hot,Jovian
+XO-6 b,0,Hot,Jovian
+YZ Cet b,0,Hot,Terran
+YZ Cet c,0,Hot,Terran
+YZ Cet d,0,Hot,Terran
